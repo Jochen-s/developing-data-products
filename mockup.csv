@@ -1,0 +1,502 @@
+ID,Polyphenol Class,Polyphenol Sub-Class,Name,Family,Molecular Weight,Synonyms,Chemical Formula,CAS Number,ChEBI ID,PubChem ID,Aglycones,Created At,Updated At
+19,Flavonoids,Anthocyanins,Cyanidin,Anthocyanins,287.244,"3,5,7,3',4'-Pentahydroxyflavylium",C15H11O6,13306-05-3,27843,128861,Cyanidin,22.11.2004 00:00:00,17.10.2013 16:06:11
+71,Flavonoids,Anthocyanins,"Cyanidin 3,5-O-diglucoside",Anthocyanins,611.525,,C27H31O16,,,441688,Cyanidin,26.04.2005 00:00:00,13.04.2015 21:57:08
+6,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-acetyl-galactoside),Anthocyanins,491.422,,C23H23O12,,,,Cyanidin,25.03.2005 11:36:49,17.10.2013 16:06:10
+42,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-acetyl-glucoside),Anthocyanins,491.422,,C23H23O12,,,,Cyanidin,25.03.2005 11:36:49,17.10.2013 16:06:12
+70,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-caffeoyl-glucoside),Anthocyanins,611.527,,C30H27O14,,,23724734,Cyanidin // Caffeic acid,26.04.2005 14:28:39,17.10.2013 16:06:13
+76,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-dioxalyl-glucoside),Anthocyanins,592.416,,C25H20O17,,,,Cyanidin,06.10.2005 16:29:06,17.10.2013 16:06:14
+84,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-malonyl-3''-glucosyl-glucoside),Anthocyanins,697.572,,C30H33O19,,,,Cyanidin,20.06.2006 00:00:00,17.10.2013 16:06:14
+13,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-malonyl-glucoside),Anthocyanins,535.431,,C24H23O14,,,443915,Cyanidin,14.04.2004 14:20:32,13.04.2015 21:57:08
+68,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-p-coumaroyl-glucoside),Anthocyanins,595.528,,C30H27O13,,,,Cyanidin // p-Coumaric acid,26.04.2005 14:28:39,13.04.2015 21:57:08
+24,Flavonoids,Anthocyanins,Cyanidin 3-O-(6''-succinyl-glucoside),Anthocyanins,549.458,,C25H25O14,,,,Cyanidin,25.01.2005 00:00:00,17.10.2013 16:06:12
+32,Flavonoids,Anthocyanins,Cyanidin 3-O-arabinoside,Anthocyanins,419.359,,C20H19O10,,,,Cyanidin,22.08.2002 11:51:47,17.10.2013 16:06:12
+8,Flavonoids,Anthocyanins,Cyanidin 3-O-galactoside,Anthocyanins,449.385,Ideain,C21H21O11,,27475,441699,Cyanidin,22.08.2002 11:51:47,13.04.2015 21:57:08
+9,Flavonoids,Anthocyanins,Cyanidin 3-O-glucoside,Anthocyanins,449.385,Kuromanin,C21H21O11,7084-24-4,28426,25244576,Cyanidin,20.09.2002 16:19:06,13.04.2015 21:57:08
+21,Flavonoids,Anthocyanins,Cyanidin 3-O-glucosyl-rutinoside,Anthocyanins,757.667,,C33H41O20,,,,Cyanidin,08.12.2004 00:00:00,13.04.2015 21:57:08
+10,Flavonoids,Anthocyanins,Cyanidin 3-O-rutinoside,Anthocyanins,595.526,Keracyanin ; Cyanidin 3-O-rhamnosyl-glucoside,C27H31O15,,28064,441674,Cyanidin,20.09.2002 16:19:39,13.04.2015 21:57:08
+50,Flavonoids,Anthocyanins,Cyanidin 3-O-sambubioside,Anthocyanins,616.952,Cyanidin 3-O-xylosyl-glucoside,C26H29ClO15,,,,Cyanidin,28.01.2005 11:35:21,17.10.2013 16:06:13
+69,Flavonoids,Anthocyanins,Cyanidin 3-O-sambubioside 5-O-glucoside,Anthocyanins,743.64,,C32H39O20,,,,Cyanidin,26.04.2005 14:28:39,14.04.2015 03:50:54
+11,Flavonoids,Anthocyanins,Cyanidin 3-O-sophoroside,Anthocyanins,611.525,,C27H31O16,,,11169452,Cyanidin,20.09.2002 16:20:08,13.04.2015 21:57:08
+53,Flavonoids,Anthocyanins,Cyanidin 3-O-xyloside,Anthocyanins,419.359,,C20H19O10,,,,Cyanidin,04.02.2005 16:35:08,17.10.2013 16:06:13
+62,Flavonoids,Anthocyanins,Cyanidin 3-O-xylosyl-rutinoside,Anthocyanins,727.641,,C32H39O19,,,,Cyanidin,26.04.2005 15:16:30,17.10.2013 16:06:13
+73,Flavonoids,Anthocyanins,"Delphinidin 3,5-O-diglucoside",Anthocyanins,627.525,,C27H31O17,,,10100906,,03.10.2005 15:15:26,13.04.2015 21:57:08
+5,Flavonoids,Anthocyanins,Delphinidin 3-O-(6''-acetyl-galactoside),Anthocyanins,507.421,,C23H23O13,,,,,25.03.2005 11:36:49,17.10.2013 16:06:10
+39,Flavonoids,Anthocyanins,Delphinidin 3-O-(6''-acetyl-glucoside),Anthocyanins,507.421,,C23H23O13,,,,,25.03.2005 11:36:49,17.10.2013 16:06:12
+64,Flavonoids,Anthocyanins,Delphinidin 3-O-(6''-p-coumaroyl-glucoside),Anthocyanins,611.527,,C30H27O14,,,15922818,p-Coumaric acid,08.09.2005 13:42:36,17.10.2013 16:06:13
+29,Flavonoids,Anthocyanins,Delphinidin 3-O-arabinoside,Anthocyanins,435.358,,C20H19O11,,,25087690,,27.01.2005 00:00:00,13.04.2015 21:57:08
+95,Flavonoids,Anthocyanins,Delphinidin 3-O-feruloyl-glucoside,Anthocyanins,641.553,,C31H29O15,,,,,23.03.2007 00:00:00,17.10.2013 16:06:14
+27,Flavonoids,Anthocyanins,Delphinidin 3-O-galactoside,Anthocyanins,465.384,,C21H21O12,,,,,27.01.2005 00:00:00,13.04.2015 21:57:08
+28,Flavonoids,Anthocyanins,Delphinidin 3-O-glucoside,Anthocyanins,465.384,,C21H21O12,,,165558,,27.01.2005 00:00:00,13.04.2015 21:57:08
+83,Flavonoids,Anthocyanins,Delphinidin 3-O-glucosyl-glucoside,Anthocyanins,627.525,,C27H31O17,,,5316496,,20.06.2006 15:23:02,17.10.2013 16:06:14
+49,Flavonoids,Anthocyanins,Delphinidin 3-O-rutinoside,Anthocyanins,611.525,,C27H31O16,15674-58-5,,5492231,,27.01.2005 00:00:00,13.04.2015 21:57:08
+61,Flavonoids,Anthocyanins,Delphinidin 3-O-sambubioside,Anthocyanins,597.499,,C26H29O16,,,,,26.04.2005 15:00:58,17.10.2013 16:06:13
+57,Flavonoids,Anthocyanins,Delphinidin 3-O-xyloside,Anthocyanins,435.358,,C20H19O11,,,,,26.04.2005 14:08:36,17.10.2013 16:06:13
+20,Flavonoids,Anthocyanins,"Malvidin 3,5-O-diglucoside",Anthocyanins,655.578,Malvin,C29H35O17,,,441765,,22.11.2004 00:00:00,13.04.2015 21:57:08
+43,Flavonoids,Anthocyanins,Malvidin 3-O-(6''-acetyl-galactoside),Anthocyanins,535.474,,C25H27O13,,,,,25.03.2005 11:36:49,17.10.2013 16:06:12
+46,Flavonoids,Anthocyanins,Malvidin 3-O-(6''-acetyl-glucoside),Anthocyanins,535.474,,C25H27O13,,,,,25.03.2005 11:36:49,17.10.2013 16:06:13
+75,Flavonoids,Anthocyanins,Malvidin 3-O-(6''-caffeoyl-glucoside),Anthocyanins,655.58,,C32H31O15,,,,Caffeic acid,06.10.2005 11:30:46,17.10.2013 16:06:14
+3,Flavonoids,Anthocyanins,Malvidin 3-O-(6''-p-coumaroyl-glucoside),Anthocyanins,639.58,,C32H31O14,,,,p-Coumaric acid,07.09.2005 11:07:11,13.04.2015 21:57:08
+37,Flavonoids,Anthocyanins,Malvidin 3-O-arabinoside,Anthocyanins,463.411,,C22H23O11,,,25079994,,27.01.2005 00:00:00,13.04.2015 21:57:08
+54,Flavonoids,Anthocyanins,Malvidin 3-O-galactoside,Anthocyanins,528.89,,C23H25ClO12,30113-37-2,,94409,,04.02.2005 00:00:00,13.04.2015 21:57:08
+36,Flavonoids,Anthocyanins,Malvidin 3-O-glucoside,Anthocyanins,493.437,,C23H25O12,7228-78-6,,443652,,27.01.2005 00:00:00,13.04.2015 21:57:08
+18,Flavonoids,Anthocyanins,Pelargonidin,Anthocyanins,271.245,"3,5,7,4'-Tetrahydroxyflavylium",C15H11O5,7690-51-9,25863,67249,Pelargonidin,19.11.2004 00:00:00,17.10.2013 16:06:11
+74,Flavonoids,Anthocyanins,"Pelargonidin 3,5-O-diglucoside",Anthocyanins,630.979,,C27H31ClO15,,,167642,Pelargonidin,03.10.2005 15:17:54,13.04.2015 21:57:08
+51,Flavonoids,Anthocyanins,Pelargonidin 3-O-(6''-malonyl-glucoside),Anthocyanins,519.432,,C24H23O13,,,443913,Pelargonidin,28.01.2005 16:02:36,13.04.2015 21:57:08
+25,Flavonoids,Anthocyanins,Pelargonidin 3-O-(6''-succinyl-glucoside),Anthocyanins,533.458,,C25H25O13,,,,Pelargonidin,25.01.2005 00:00:00,17.10.2013 16:06:12
+48,Flavonoids,Anthocyanins,Pelargonidin 3-O-arabinoside,Anthocyanins,403.359,,C20H19O9,,,,Pelargonidin,26.04.2005 10:01:14,17.10.2013 16:06:13
+59,Flavonoids,Anthocyanins,Pelargonidin 3-O-galactoside,Anthocyanins,433.385,,C21H21O10,,,25021367,Pelargonidin,26.04.2005 14:28:39,17.10.2013 16:06:13
+12,Flavonoids,Anthocyanins,Pelargonidin 3-O-glucoside,Anthocyanins,433.385,,C21H21O10,18466-51-8,31967,9867509,Pelargonidin,20.09.2002 16:20:38,13.04.2015 21:57:08
+23,Flavonoids,Anthocyanins,Pelargonidin 3-O-glucosyl-rutinoside,Anthocyanins,741.667,,C33H41O19,,,,Pelargonidin,24.01.2005 00:00:00,13.04.2015 21:57:08
+17,Flavonoids,Anthocyanins,Pelargonidin 3-O-rutinoside,Anthocyanins,579.527,,C27H31O14,,,443917,Pelargonidin,19.11.2004 00:00:00,13.04.2015 21:57:08
+60,Flavonoids,Anthocyanins,Pelargonidin 3-O-sambubioside,Anthocyanins,565.5,,C26H29O14,,,,Pelargonidin,26.04.2005 14:59:33,17.10.2013 16:06:13
+22,Flavonoids,Anthocyanins,Pelargonidin 3-O-sophoroside,Anthocyanins,595.526,,C27H31O15,,,23724704,Pelargonidin,24.01.2005 00:00:00,13.04.2015 21:57:08
+14,Flavonoids,Anthocyanins,Peonidin,Anthocyanins,301.271,"3,5,7,4'-Tetrahydroxy-3'-methoxyflavylium",C16H13O6,134-01-0,,441773,Peonidin,30.08.2004 00:00:00,17.10.2013 16:06:11
+41,Flavonoids,Anthocyanins,Peonidin 3-O-(6''-acetyl-galactoside),Anthocyanins,505.448,,C24H25O12,,,,Peonidin,25.03.2005 11:36:49,17.10.2013 16:06:12
+47,Flavonoids,Anthocyanins,Peonidin 3-O-(6''-acetyl-glucoside),Anthocyanins,505.448,,C24H25O12,,,,Peonidin,29.03.2005 00:00:00,17.10.2013 16:06:13
+52,Flavonoids,Anthocyanins,Peonidin 3-O-(6''-p-coumaroyl-glucoside),Anthocyanins,609.554,,C31H29O13,,,,Peonidin // p-Coumaric acid,07.09.2005 16:35:35,17.10.2013 16:06:13
+55,Flavonoids,Anthocyanins,Peonidin 3-O-arabinoside,Anthocyanins,449.385,,C21H21O11,,,5320508,Peonidin,04.02.2005 16:48:54,17.10.2013 16:06:13
+34,Flavonoids,Anthocyanins,Peonidin 3-O-galactoside,Anthocyanins,463.411,,C22H23O11,,,,Peonidin,19.11.2004 00:00:00,13.04.2015 21:57:08
+15,Flavonoids,Anthocyanins,Peonidin 3-O-glucoside,Anthocyanins,463.411,,C22H23O11,6906-39-4,,443654,Peonidin,19.11.2004 00:00:00,13.04.2015 21:57:08
+16,Flavonoids,Anthocyanins,Peonidin 3-O-rutinoside,Anthocyanins,609.553,,C28H33O15,,,,Peonidin,19.11.2004 00:00:00,13.04.2015 21:57:08
+96,Flavonoids,Anthocyanins,"Petunidin 3,5-O-diglucoside",Anthocyanins,641.551,,C28H33O17,,,,,23.03.2007 00:00:00,17.10.2013 16:06:14
+40,Flavonoids,Anthocyanins,Petunidin 3-O-(6''-acetyl-galactoside),Anthocyanins,521.448,,C24H25O13,,,,,25.03.2005 11:36:49,17.10.2013 16:06:12
+44,Flavonoids,Anthocyanins,Petunidin 3-O-(6''-acetyl-glucoside),Anthocyanins,521.448,,C24H25O13,,,,,25.03.2005 11:36:49,17.10.2013 16:06:12
+58,Flavonoids,Anthocyanins,Petunidin 3-O-(6''-p-coumaroyl-glucoside),Anthocyanins,625.554,,C31H29O14,,,,p-Coumaric acid,26.04.2005 14:28:39,13.04.2015 21:57:08
+35,Flavonoids,Anthocyanins,Petunidin 3-O-arabinoside,Anthocyanins,449.385,,C21H21O11,,,5320508,,27.01.2005 00:00:00,17.10.2013 16:06:12
+31,Flavonoids,Anthocyanins,Petunidin 3-O-galactoside,Anthocyanins,479.411,,C22H23O12,,,,,27.01.2005 00:00:00,17.10.2013 16:06:12
+33,Flavonoids,Anthocyanins,Petunidin 3-O-glucoside,Anthocyanins,479.411,,C22H23O12,6988-81-4,,176449,,27.01.2005 00:00:00,13.04.2015 21:57:08
+97,Flavonoids,Anthocyanins,Petunidin 3-O-rhamnoside,Anthocyanins,447.412,,C22H23O10,,,,,23.03.2007 00:00:00,17.10.2013 16:06:14
+56,Flavonoids,Anthocyanins,Petunidin 3-O-rutinoside,Anthocyanins,595.526,,C27H31O15,,,,,26.04.2005 14:03:55,13.04.2015 21:57:08
+65,Flavonoids,Anthocyanins,Pigment A,Polymeric anthocyanins,609.554,Malvidin 3-O-glucoside 4-vinylphenol ; (cyclisation vinylphenol at C4-C5),C31H29O13,65445-21-8,,5492738,,08.09.2005 13:58:51,17.10.2013 16:06:13
+72,Flavonoids,Anthocyanins,Pinotin A,Polymeric anthocyanins,625.554,Malvidin 3-O-glucoside caffeic acid ; Malvidin 3-O-glucoside caffeic adduct ; (cyclisation caffeic at C4-C5),C31H29O14,,,,,03.10.2005 13:05:45,17.10.2013 16:06:13
+63,Flavonoids,Anthocyanins,Vitisin A,Polymeric anthocyanins,561.468,Malvidin 3-O-glucoside pyruvic acid ; Malvidin 3-O-glucoside pyruvic adduct ; (cyclisation pyruvic at C4-C5),C26H25O14,142449-89-6,,16131430,,08.09.2005 12:26:42,17.10.2013 16:06:13
+104,Flavonoids,Chalcones,Butein,Chalcones,272.253,"3,4,2',4'-Tetrahydroxychalcone",C15H12O5,487-52-5,,5281222,Butein,21.05.2007 00:00:00,17.10.2013 16:06:14
+105,Flavonoids,Chalcones,Xanthohumol,Alkylchalcones,354.396,,C21H22O5,6754-58-1,,639665,Xanthohumol,21.09.2007 16:21:23,17.10.2013 16:06:14
+113,Flavonoids,Dihydrochalcones,3-Hydroxyphloretin 2'-O-glucoside,Dihydrochalcones,452.409,,C21H24O11,,,,,24.08.2004 09:52:06,17.10.2013 16:06:15
+112,Flavonoids,Dihydrochalcones,3-Hydroxyphloretin 2'-O-xylosyl-glucoside,Dihydrochalcones,584.523,,C26H32O15,,,,,24.08.2004 09:52:06,17.10.2013 16:06:15
+108,Flavonoids,Dihydrochalcones,Phloretin,Dihydrochalcones,274.269,"4,2',4',6'-Tetrahydroxydihydrochalcone",C15H14O5,60-82-2,17276,4788,Phloretin,18.06.2004 00:00:00,17.10.2013 16:06:15
+111,Flavonoids,Dihydrochalcones,Phloretin 2'-O-xylosyl-glucoside,Dihydrochalcones,568.524,,C26H32O14,,,,Phloretin,17.06.2004 00:00:00,13.04.2015 21:57:08
+109,Flavonoids,Dihydrochalcones,Phloridzin,Dihydrochalcones,436.409,Phloretin 2'-O-glucoside,C21H24O10,60-81-1,8113,4789,Phloretin,21.08.2002 09:16:10,13.04.2015 21:57:08
+119,Flavonoids,Dihydroflavonols,Dihydromyricetin 3-O-rhamnoside,Dihydroflavonols,466.392,,C21H22O12,,,,,08.09.2005 16:17:26,17.10.2013 16:06:15
+117,Flavonoids,Dihydroflavonols,Dihydroquercetin,Dihydroflavonols,304.252,"3,5,7,3',4'-Pentahydroxyflavanone ; Taxifolin ; Distylin",C15H12O7,480-18-2,17948,10185,Dihydroquercetin,04.09.2002 16:07:19,17.10.2013 16:06:15
+116,Flavonoids,Dihydroflavonols,Dihydroquercetin 3-O-rhamnoside,Dihydroflavonols,450.393,Taxifolin 3-O-rhamnoside ; Astilbin,C21H22O11,29838-67-3,38200,119258,Dihydroquercetin,05.09.2005 11:11:25,17.10.2013 16:06:15
+124,Flavonoids,Flavanols,(+)-Catechin,Catechins,290.268,"3,5,7,3',4'-Pentahydroxyflavane",C15H14O6,154-23-4,15600,9064,(+)-Catechin,20.08.2002 16:23:07,13.04.2015 21:57:08
+139,Flavonoids,Flavanols,(+)-Catechin 3-O-gallate,Catechins,442.372,,C22H18O10,,,,(+)-Catechin // Gallic acid,22.06.2004 00:00:00,17.10.2013 16:06:15
+199,Flavonoids,Flavanols,(+)-Catechin 3-O-glucose,Catechins,452.409,,C21H24O11,,,,(+)-Catechin,23.01.2009 00:00:00,17.10.2013 16:06:17
+126,Flavonoids,Flavanols,(+)-Gallocatechin,Catechins,306.267,,C15H14O7,1617-55-6,,65084,(+)-Gallocatechin,02.09.2002 09:07:12,17.10.2013 16:06:15
+137,Flavonoids,Flavanols,(+)-Gallocatechin 3-O-gallate,Catechins,458.372,,C22H18O11,4233-96-9,,5276890,(+)-Gallocatechin // Gallic acid,11.04.2003 14:17:59,17.10.2013 16:06:15
+125,Flavonoids,Flavanols,(-)-Epicatechin,Catechins,290.268,"3,5,7,3',4'-Pentahydroxyflavane",C15H14O6,490-46-0,28466,72276,(-)-Epicatechin,20.08.2002 16:48:58,13.04.2015 21:57:08
+128,Flavonoids,Flavanols,(-)-Epicatechin 3-O-gallate,Catechins,442.372,,C22H18O10,1257-08-5,,15689618,(-)-Epicatechin // Gallic acid,30.08.2002 13:53:31,13.04.2015 21:57:08
+195,Flavonoids,Flavanols,(-)-Epicatechin-(2a-7)(4a-8)-epicatechin 3-O-galactoside,Proanthocyanidin dimers,706.646,,C36H34O15,,,,,30.07.2008 00:00:00,17.10.2013 16:06:17
+127,Flavonoids,Flavanols,(-)-Epigallocatechin,Catechins,306.267,,C15H14O7,970-74-1,42255,72277,(-)-Epigallocatechin,30.08.2002 13:52:22,13.04.2015 21:57:08
+129,Flavonoids,Flavanols,(-)-Epigallocatechin 3-O-gallate,Catechins,458.372,,C22H18O11,989-51-5,4806,65064,(-)-Epigallocatechin // Gallic acid,03.09.2002 15:08:22,13.04.2015 21:57:08
+196,Flavonoids,Flavanols,Cinnamtannin A2,Proanthocyanidin tetramers,1155.02,"EC-(4b,8)-EC-(4b,8)-EC-(4b,8)-EC ; Tetramer D",C60H50O24,,,,Cinnamtannin A2,31.07.2008 00:00:00,17.10.2013 16:06:17
+150,Flavonoids,Flavanols,Procyanidin dimer B1,Proanthocyanidin dimers,578.52,"EC-(4b,8)-C",C30H26O12,20315-25-7,,,Procyanidin dimer B1,29.08.2002 13:57:03,13.04.2015 21:57:08
+151,Flavonoids,Flavanols,Procyanidin dimer B2,Proanthocyanidin dimers,578.52,"EC-(4b,8)-EC",C30H26O12,29106-49-8,,122738,Procyanidin dimer B2,21.08.2002 14:48:07,13.04.2015 21:57:08
+152,Flavonoids,Flavanols,Procyanidin dimer B3,Proanthocyanidin dimers,578.52,"C-(4a,8)-C",C30H26O12,,,146798,Procyanidin dimer B3,20.08.2002 15:58:13,13.04.2015 21:57:08
+153,Flavonoids,Flavanols,Procyanidin dimer B4,Proanthocyanidin dimers,578.52,"C-(4a,8)-EC",C30H26O12,,27589,147299,Procyanidin dimer B4,10.09.2004 00:00:00,13.04.2015 21:57:09
+154,Flavonoids,Flavanols,Procyanidin dimer B5,Proanthocyanidin dimers,578.52,"EC-(4b,6)-EC",C30H26O12,,,11649946,Procyanidin dimer B5,29.08.2002 13:55:55,17.10.2013 16:06:16
+155,Flavonoids,Flavanols,Procyanidin dimer B7,Proanthocyanidin dimers,578.52,"EC-(4,6)-C",C30H26O12,,,,Procyanidin dimer B7,10.09.2004 00:00:00,17.10.2013 16:06:16
+157,Flavonoids,Flavanols,Procyanidin trimer C1,Proanthocyanidin trimers,866.772,"EC-(4b,8)-EC-(4b,8)-EC",C45H38O18,,,169853,Procyanidin trimer C1,29.08.2002 13:57:43,13.04.2015 21:57:09
+169,Flavonoids,Flavanols,Procyanidin trimer C2,Proanthocyanidin trimers,866.772,"C-(4,8)-C-(4,8)-C",C45H38O18,,,,Procyanidin trimer C2,13.09.2005 15:03:21,17.10.2013 16:06:16
+161,Flavonoids,Flavanols,Procyanidin trimer EEC,Proanthocyanidin trimers,866.772,"EC-(4,8)-EC-(4,8)-C",C45H38O18,,,,Procyanidin trimer EEC,10.09.2004 00:00:00,17.10.2013 16:06:16
+168,Flavonoids,Flavanols,Procyanidin trimer T2,Proanthocyanidin trimers,866.772,"EC-(4b,8)-EC-(4b,8)-C",C45H38O18,,,,Procyanidin trimer T2,13.09.2005 11:42:52,13.04.2015 21:57:09
+156,Flavonoids,Flavanols,Prodelphinidin dimer B3,Proanthocyanidin dimers,610.519,"GC-(4,8)-C ; Dimer GC-C",C30H26O14,,,,Prodelphinidin dimer B3,10.09.2004 00:00:00,17.10.2013 16:06:16
+192,Flavonoids,Flavanols,Prodelphinidin trimer C-GC-C,Proanthocyanidin trimers,882,C-GC-C,C45H38O19,,,,Prodelphinidin trimer C-GC-C,24.07.2008 00:00:00,15.10.2011 02:49:40
+191,Flavonoids,Flavanols,Prodelphinidin trimer GC-C-C,Proanthocyanidin trimers,882,GC-C-C,C45H38O19,,,,Prodelphinidin trimer GC-C-C,24.07.2008 00:00:00,15.10.2011 02:49:40
+173,Flavonoids,Flavanols,Prodelphinidin trimer GC-GC-C,Proanthocyanidin trimers,898,GC-GC-C,C45H38O20,,,,Prodelphinidin trimer GC-GC-C,24.10.2006 00:00:00,15.10.2011 02:49:39
+133,Flavonoids,Flavanols,Theaflavin,Theaflavins,564.494,,C29H24O12,4670-05-7,,114777,Theaflavin,01.04.2003 10:17:20,17.10.2013 16:06:15
+135,Flavonoids,Flavanols,Theaflavin 3'-O-gallate,Theaflavins,716.598,,C36H28O16,,,,Theaflavin // Gallic acid,01.04.2003 10:21:41,17.10.2013 16:06:15
+136,Flavonoids,Flavanols,"Theaflavin 3,3'-O-digallate",Theaflavins,868.702,,C43H32O20,33377-72-9,,5748168,Theaflavin // Gallic acid,01.04.2003 10:22:54,17.10.2013 16:06:15
+134,Flavonoids,Flavanols,Theaflavin 3-O-gallate,Theaflavins,716.598,,C36H28O16,31629-79-5,,467321,Theaflavin // Gallic acid,01.04.2003 10:19:49,17.10.2013 16:06:15
+223,Flavonoids,Flavanones,6-Geranylnaringenin,Alkylflavanones,408.487,"5,7,4'-Trihydroxy-6-geranylflavanone ; Mimulone ; Bonannione A",C25H28O5,,,5716903,6-Geranylnaringenin,19.03.2007 00:00:00,17.10.2013 16:06:18
+222,Flavonoids,Flavanones,6-Prenylnaringenin,Alkylflavanones,340.37,"5,7,4'-Trihydroxy-6-prenylflavanone",C20H20O5,,,155094,6-Prenylnaringenin,19.03.2007 00:00:00,17.10.2013 16:06:18
+221,Flavonoids,Flavanones,8-Prenylnaringenin,Alkylflavanones,340.37,"5,7,4'-Trihydroxy-8-prenylflavanone ; Isobavachin",C20H20O5,,,509245,8-Prenylnaringenin,04.09.2002 15:55:15,17.10.2013 16:06:18
+214,Flavonoids,Flavanones,Didymin,Flavanones,594.561,Isosakuranetin 7-rutinoside,C28H34O14,,,16760075,Isosakuranetin,23.09.2002 09:05:09,13.04.2015 21:57:09
+206,Flavonoids,Flavanones,Eriocitrin,Flavanones,596.534,Eriodictyol 7-O-rutinoside,C27H32O15,13463-28-0,28709,83489,Eriodictyol,04.09.2002 15:51:58,17.10.2013 16:06:17
+202,Flavonoids,Flavanones,Eriodictyol,Flavanones,288.252,"5,7,3',4'-Tetrahydroxyflavanone",C15H12O6,552-58-9,28412,440735,Eriodictyol,02.09.2002 13:47:46,17.10.2013 16:06:17
+225,Flavonoids,Flavanones,Eriodictyol 7-O-glucoside,Flavanones,450.393,,C21H22O11,,,,Eriodictyol,30.10.2007 00:00:00,17.10.2013 16:06:18
+203,Flavonoids,Flavanones,Hesperetin,Methoxyflavanones,302.279,"5,7,3'-Trihydroxy-4'-methoxyflavanone ; 4'-Methyleriodictyol",C16H14O6,520-33-2,28230,72281,Hesperetin,02.09.2002 11:56:21,13.04.2015 21:57:09
+207,Flavonoids,Flavanones,Hesperidin,Flavanones,610.561,Hesperetin 7-O-rutinoside,C28H34O15,520-26-3,28775,10621,Hesperetin,04.09.2002 15:52:52,13.04.2015 21:57:09
+224,Flavonoids,Flavanones,Isoxanthohumol,Alkylmethoxyflavanones,354.396,"7,4'-Dihydroxy-5-methoxy-8-prenylflavanone ; 5-Methyl-8-prenylnaringenin",C21H22O5,,,513197,Isoxanthohumol,21.09.2007 16:21:23,17.10.2013 16:06:18
+201,Flavonoids,Flavanones,Naringenin,Flavanones,272.253,"5,7,4'-Trihydroxyflavanone",C15H12O5,480-41-1,17846,439246,Naringenin,02.09.2002 11:57:04,13.04.2015 21:57:09
+219,Flavonoids,Flavanones,Naringenin 7-O-glucoside,Flavanones,434.393,Prunin,C21H22O10,,28327,92794,Naringenin,26.06.2006 00:00:00,13.04.2015 21:57:09
+208,Flavonoids,Flavanones,Naringin,Flavanones,580.535,Naringenin 7-O-neohesperidoside,C27H32O14,10236-47-2,28819,442428,Naringenin,04.09.2002 15:55:15,17.10.2013 16:06:17
+216,Flavonoids,Flavanones,Naringin 4'-O-glucoside,Flavanones,434.393,,C21H22O10,,,470791,Naringenin,04.09.2002 15:55:15,17.10.2013 16:06:17
+217,Flavonoids,Flavanones,Naringin 6'-malonate,Flavanones,666.581,"Naringenin 7-O-(6""-malonate-neohesperidoside)",C30H34O17,,,,Naringenin,04.09.2002 15:55:15,17.10.2013 16:06:17
+209,Flavonoids,Flavanones,Narirutin,Flavanones,580.535,Naringenin 7-O-rutinoside,C27H32O14,,28705,442431,Naringenin,04.09.2002 15:56:42,13.04.2015 21:57:09
+215,Flavonoids,Flavanones,Narirutin 4'-O-glucoside,Flavanones,742.675,,C33H42O19,,,,Naringenin,04.09.2002 15:56:42,17.10.2013 16:06:17
+210,Flavonoids,Flavanones,Neoeriocitrin,Flavanones,596.534,Eriodictyol 7-O-neohesperidoside,C27H32O15,,,114627,Eriodictyol,04.09.2002 15:59:20,17.10.2013 16:06:17
+211,Flavonoids,Flavanones,Neohesperidin,Flavanones,610.561,Hesperetin 7-O-neohesperidoside,C28H34O15,,,442439,Hesperetin,04.09.2002 16:00:24,17.10.2013 16:06:17
+220,Flavonoids,Flavanones,Pinocembrin,Flavanones,256.253,"5,7-Dihydroxyflavanone ; Dihydrochrysin",C15H12O4,480-39-7,,68071,Pinocembrin,18.09.2006 09:58:33,17.10.2013 16:06:18
+213,Flavonoids,Flavanones,Poncirin,Flavanones,594.561,Isosakuranetin 7-O-neohesperidoside ; Citrifolioside,C28H34O14,,,442456,Isosakuranetin,04.09.2002 16:02:18,17.10.2013 16:06:17
+226,Flavonoids,Flavanones,Sakuranetin,Methoxyflavanones,286.279,"5,4'-Dihydroxy-7-methoxyflavanone ; 7-Methylnaringenin",C16H14O5,2957-21-3,28927,348130,Sakuranetin,01.11.2007 00:00:00,17.10.2013 16:06:18
+271,Flavonoids,Flavones,"5,6-Dihydroxy-7,8,3',4'-tetramethoxyflavone",Methoxyflavones,374.341,,C19H18O8,,,,"5,6-Dihydroxy-7,8,3',4'-tetramethoxyflavone",30.10.2007 00:00:00,17.10.2013 16:06:19
+278,Flavonoids,Flavones,6-Hydroxyluteolin,Flavones,302.236,"5,6,7,3',4'-Pentahydroxyflavone",C15H10O7,18003-33-3,2197,5281642,6-Hydroxyluteolin,01.11.2007 00:00:00,17.10.2013 16:06:19
+279,Flavonoids,Flavones,6-Hydroxyluteolin 7-O-rhamnoside,Flavones,448.377,,C21H20O11,,,,6-Hydroxyluteolin,01.11.2007 00:00:00,17.10.2013 16:06:20
+263,Flavonoids,Flavones,"7,3',4'-Trihydroxyflavone",Flavones,270.237,,C15H10O5,,,5322065,"7,3',4'-Trihydroxyflavone",21.05.2007 00:00:00,17.10.2013 16:06:19
+264,Flavonoids,Flavones,"7,4'-Dihydroxyflavone",Flavones,254.238,,C15H10O4,2196-14-7,,,"7,4'-Dihydroxyflavone",21.05.2007 00:00:00,17.10.2013 16:06:19
+228,Flavonoids,Flavones,Apigenin,Flavones,270.237,"5,7,4'-Trihydroxyflavone",C15H10O5,520-36-5,18388,5280443,Apigenin,02.09.2002 11:37:28,17.10.2013 16:06:18
+249,Flavonoids,Flavones,"Apigenin 6,8-C-arabinoside-C-glucoside",Flavones,564,,C26H28O14,,,,Apigenin,20.04.2006 13:55:54,14.04.2015 03:50:55
+250,Flavonoids,Flavones,"Apigenin 6,8-C-galactoside-C-arabinoside",Flavones,564,,C26H28O14,,,,Apigenin,20.04.2006 14:03:47,14.04.2015 03:50:55
+247,Flavonoids,Flavones,"Apigenin 6,8-di-C-glucoside",Flavones,594.518,Vicenin 2,C27H30O15,,,442664,Apigenin,13.04.2004 14:59:30,17.10.2013 16:06:18
+267,Flavonoids,Flavones,Apigenin 6-C-glucoside,Flavones,432.378,Isovitexin,C21H20O10,38953-85-4,18330,162350,Apigenin,12.04.2007 00:00:00,17.10.2013 16:06:19
+281,Flavonoids,Flavones,Apigenin 7-O-(6''-malonyl-apiosyl-glucoside),Flavones,650.538,,C29H30O17,,,,Apigenin,07.11.2007 00:00:00,17.10.2013 16:06:20
+261,Flavonoids,Flavones,Apigenin 7-O-apiosyl-glucoside,Flavones,564.492,Apiin,C26H28O14,26544-34-3,15932,16211399,Apigenin,28.03.2007 00:00:00,17.10.2013 16:06:19
+287,Flavonoids,Flavones,Apigenin 7-O-diglucuronide,Flavones,622.485,,C27H26O17,,,,Apigenin,23.11.2007 00:00:00,17.10.2013 16:06:20
+246,Flavonoids,Flavones,Apigenin 7-O-glucoside,Flavones,420.41,,C21H24O9,578-74-5,16778,622948,Apigenin,23.06.2004 00:00:00,13.04.2015 21:57:09
+252,Flavonoids,Flavones,Apigenin 7-O-glucuronide,Flavones,446.361,,C21H18O11,,,5319484,Apigenin,07.08.2006 00:00:00,13.04.2015 21:57:09
+266,Flavonoids,Flavones,Baicalein,Flavones,270.237,"5,6,7-Trihydroxyflavone",C15H10O5,491-67-8,2979,5281605,Baicalein,08.06.2007 00:00:00,17.10.2013 16:06:19
+240,Flavonoids,Flavones,Chrysin,Flavones,254.238,"5,7-Dihydroxyflavone",C15H10O4,480-40-0,,5281607,Chrysin,22.04.2004 13:27:50,17.10.2013 16:06:18
+284,Flavonoids,Flavones,Chrysoeriol 7-O-(6''-malonyl-apiosyl-glucoside),Methoxyflavones,680.564,,C30H32O18,,,,,07.11.2007 00:00:00,17.10.2013 16:06:20
+286,Flavonoids,Flavones,Chrysoeriol 7-O-(6''-malonyl-glucoside),Methoxyflavones,548.45,,C25H24O14,,,,,07.11.2007 00:00:00,17.10.2013 16:06:20
+283,Flavonoids,Flavones,Chrysoeriol 7-O-apiosyl-glucoside,Methoxyflavones,594.518,,C27H30O15,,,6324921,,07.11.2007 00:00:00,17.10.2013 16:06:20
+285,Flavonoids,Flavones,Chrysoeriol 7-O-glucoside,Methoxyflavones,462.404,,C22H22O11,,,,,07.11.2007 00:00:00,17.10.2013 16:06:20
+276,Flavonoids,Flavones,Cirsilineol,Methoxyflavones,344.315,"5,4'-Dihydroxy-6,7,3'-trimethoxyflavone",C18H16O7,41365-32-6,,162464,Cirsilineol,30.10.2007 00:00:00,17.10.2013 16:06:19
+269,Flavonoids,Flavones,Cirsimaritin,Methoxyflavones,314.289,"5,4'-Dihydroxy-6,7-dimethoxyflavone ; 6,7-Dimethylscutellarein ; Skrofullein",C17H14O6,6601-62-3,,188323,Cirsimaritin,17.10.2007 00:00:00,17.10.2013 16:06:19
+232,Flavonoids,Flavones,Diosmin,Methoxyflavones,608.545,Diosmetin 7-O-rutinoside,C28H32O15,520-27-4,,5281613,,04.09.2002 15:50:54,17.10.2013 16:06:18
+277,Flavonoids,Flavones,Eupatorin,Methoxyflavones,344.315,"5,3'-Dihydroxy-6,7,4'-trimethoxyflavone",C18H16O7,855-96-9,,97214,Eupatorin,30.10.2007 00:00:00,17.10.2013 16:06:19
+273,Flavonoids,Flavones,Gardenin B,Methoxyflavones,358.342,"5-Hydroxy-6,7,8,4'-tetramethoxyflavone",C19H18O7,,,96539,Gardenin B,30.10.2007 00:00:00,17.10.2013 16:06:19
+265,Flavonoids,Flavones,Geraldone,Methoxyflavones,284.263,"7,4'-Dihydroxy-3'-methoxyflavone",C16H12O5,21583-32-4,,5281618,Geraldone,21.05.2007 00:00:00,17.10.2013 16:06:19
+268,Flavonoids,Flavones,Hispidulin,Methoxyflavones,300.263,"5,7,4'-Trihydroxy-6-methoxyflavone ; 6-Methoxyapigenin ; 6-Methylscutellarein",C16H12O6,1447-88-7,,5281628,Hispidulin,17.10.2007 00:00:00,17.10.2013 16:06:19
+233,Flavonoids,Flavones,Isorhoifolin,Flavones,578.519,Apigenin 7-O-rutinoside,C27H30O14,,,17751020,Apigenin,04.09.2002 15:54:14,17.10.2013 16:06:18
+275,Flavonoids,Flavones,Jaceosidin,Methoxyflavones,330.289,"5,7,4'-Trihydroxy-6,3'-dimethoxyflavone",C17H14O7,18085-97-7,,5379096,Jaceosidin,30.10.2007 00:00:00,17.10.2013 16:06:19
+229,Flavonoids,Flavones,Luteolin,Flavones,286.236,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,491-70-3,15864,5280445,Luteolin,02.09.2002 11:38:11,13.04.2015 21:57:09
+254,Flavonoids,Flavones,Luteolin 6-C-glucoside,Flavones,448.377,Homoorientin ; Isoorientin,C21H20O11,4261-42-1,17965,114776,Luteolin 6-C-glucoside,23.06.2004 00:00:00,17.10.2013 16:06:19
+260,Flavonoids,Flavones,Luteolin 7-O-(2-apiosyl-6-malonyl)-glucoside,Flavones,666.538,,C29H30O18,,,,Luteolin,26.02.2007 00:00:00,17.10.2013 16:06:19
+257,Flavonoids,Flavones,Luteolin 7-O-(2-apiosyl-glucoside),Flavones,580.492,,C26H28O15,,,,Luteolin,26.02.2007 00:00:00,17.10.2013 16:06:19
+239,Flavonoids,Flavones,Luteolin 7-O-diglucuronide,Flavones,638.484,,C27H26O18,,,,Luteolin,05.05.2003 11:53:07,17.10.2013 16:06:18
+245,Flavonoids,Flavones,Luteolin 7-O-glucoside,Flavones,448.377,Cynaroside,C21H20O11,5373-11-5,27994,5280637,Luteolin,23.06.2004 00:00:00,17.10.2013 16:06:18
+251,Flavonoids,Flavones,Luteolin 7-O-glucuronide,Flavones,462.36,,C21H18O12,29741-10-4,18128,5280601,Luteolin,07.08.2006 00:00:00,17.10.2013 16:06:19
+253,Flavonoids,Flavones,Luteolin 7-O-malonyl-glucoside,Flavones,534.423,,C24H22O14,,6579,5281669,Luteolin,07.08.2006 00:00:00,17.10.2013 16:06:19
+243,Flavonoids,Flavones,Luteolin 7-O-rutinoside,Flavones,594.518,Scolymoside,C27H30O15,25694-72-8,31788,10461109,Luteolin,02.09.2002 11:38:11,17.10.2013 16:06:18
+234,Flavonoids,Flavones,Neodiosmin,Methoxyflavones,608.545,Diosmetin 7-O-neohesperidoside,C28H32O15,,,,,04.09.2002 15:57:21,17.10.2013 16:06:18
+274,Flavonoids,Flavones,Nepetin,Methoxyflavones,316.262,"5,7,3',4'-Tetrahydroxy-6-methoxyflavone ; 6-Methoxyluteolin",C16H12O7,,,5317284,Nepetin,30.10.2007 00:00:00,17.10.2013 16:06:19
+237,Flavonoids,Flavones,Nobiletin,Methoxyflavones,402.395,"5,6,7,8,3',4'-Hexamethoxyflavone",C21H22O8,478-01-3,,72344,Nobiletin,04.09.2002 16:09:02,13.04.2015 21:57:09
+272,Flavonoids,Flavones,Pebrellin,Methoxyflavones,344.315,"5,6-Dihydroxy-4',7,8-trimethoxyflavone",C18H16O7,,,,Pebrellin,30.10.2007 00:00:00,17.10.2013 16:06:19
+235,Flavonoids,Flavones,Rhoifolin,Flavones,578.519,Apigenin 7-O-neohesperidoside,C27H30O14,17306-46-6,,5282150,Apigenin,04.09.2002 16:05:47,17.10.2013 16:06:18
+288,Flavonoids,Flavones,Rhoifolin 4'-O-glucoside,Flavones,740.659,Apigenin 7-O-neohesperidoside 4'-glucoside,C33H40O19,,,,Apigenin,04.09.2002 15:55:15,17.10.2013 16:06:20
+280,Flavonoids,Flavones,Scutellarein,Flavones,286.236,"5,6,7,4'-Tetrahydroxyflavone ; 6-Hydroxyapigenin",C15H10O6,529-53-3,,5281697,Scutellarein,02.11.2007 00:00:00,17.10.2013 16:06:20
+236,Flavonoids,Flavones,Sinensetin,Methoxyflavones,372.369,"5,6,7,3',4'-Pentamethoxyflavone",C20H20O7,2306-27-6,,145659,Sinensetin,04.09.2002 16:06:39,13.04.2015 21:57:09
+238,Flavonoids,Flavones,Tangeretin,Methoxyflavones,372.369,"5,6,7,8,4'-Pentamethoxyflavone",C20H20O7,481-53-8,9400,68077,Tangeretin,04.09.2002 16:09:36,13.04.2015 21:57:09
+244,Flavonoids,Flavones,Tetramethylscutellarein,Methoxyflavones,342.343,"5,6,7,4'-Tetramethoxyflavone",C19H18O6,,,96118,Tetramethylscutellarein,22.04.2004 14:58:40,13.04.2015 21:57:09
+337,Flavonoids,Flavonols,"3,7-Dimethylquercetin",Methoxyflavonols,330.289,"5,3',4'-Trihydroxy-3,7-dimethoxyflavone",C17H14O7,,,5280417,"3,7-Dimethylquercetin",28.09.2006 00:00:00,17.10.2013 16:06:21
+392,Flavonoids,Flavonols,3-Methoxynobiletin,Methoxyflavonols,432.421,"3,5,6,7,8,3',4'-Heptamethoxyflavone",C22H24O9,,,,3-Methoxynobiletin,04.09.2002 16:08:09,17.10.2013 16:06:24
+393,Flavonoids,Flavonols,3-Methoxysinensetin,Methoxyflavonols,402.395,"3,5,6,7,3',4'-Hexamethoxyflavone",C21H22O8,,,,3-Methoxysinensetin,22.04.2004 14:58:40,17.10.2013 16:06:24
+363,Flavonoids,Flavonols,"5,3',4'-Trihydroxy-3-methoxy-6:7-methylenedioxyflavone 4'-O-glucuronide",Methoxyflavonols,520.396,,C23H20O14,,,,,09.08.2006 12:52:52,13.04.2015 21:57:09
+364,Flavonoids,Flavonols,"5,4'-Dihydroxy-3,3'-dimethoxy-6:7-methylenedioxyflavone 4'-O-glucuronide",Methoxyflavonols,534.423,,C24H22O14,,,,,09.08.2006 12:52:52,13.04.2015 21:57:09
+382,Flavonoids,Flavonols,"6,8-Dihydroxykaempferol",Flavonols,318.235,"3,5,6,7,8,4'-Hexahydroxyflavone",C15H10O8,,,,"6,8-Dihydroxykaempferol",02.10.2007 00:00:00,17.10.2013 16:06:23
+317,Flavonoids,Flavonols,Galangin,Flavonols,270.237,"3,5,7-Trihydroxyflavone",C15H10O5,548-83-4,5262,5281616,Galangin,22.04.2004 13:33:20,17.10.2013 16:06:21
+318,Flavonoids,Flavonols,Isorhamnetin,Methoxyflavonols,316.262,"3,5,7,4'-Tetrahydroxy-3'-methoxyflavone ; 3'-Methylquercetin",C16H12O7,480-19-3,,5281654,Isorhamnetin,02.09.2002 11:41:58,17.10.2013 16:06:21
+383,Flavonoids,Flavonols,Isorhamnetin 3-O-galactoside,Methoxyflavonols,478.403,,C22H22O12,,,,Isorhamnetin,02.10.2007 00:00:00,17.10.2013 16:06:23
+326,Flavonoids,Flavonols,Isorhamnetin 3-O-glucoside,Methoxyflavonols,478.403,,C22H22O12,,,5318645,Isorhamnetin,18.06.2004 00:00:00,17.10.2013 16:06:21
+303,Flavonoids,Flavonols,Isorhamnetin 3-O-glucoside 7-O-rhamnoside,Methoxyflavonols,624.544,,C28H32O16,,,,Isorhamnetin,21.07.2005 00:00:00,17.10.2013 16:06:20
+331,Flavonoids,Flavonols,Isorhamnetin 3-O-glucuronide,Methoxyflavonols,492.386,,C22H20O13,,,,Isorhamnetin,28.01.2005 15:54:47,17.10.2013 16:06:21
+304,Flavonoids,Flavonols,Isorhamnetin 3-O-rutinoside,Methoxyflavonols,462.404,,C22H22O11,,,5318648,Isorhamnetin,21.07.2005 00:00:00,17.10.2013 16:06:20
+336,Flavonoids,Flavonols,Isorhamnetin 4'-O-glucoside,Methoxyflavonols,478.403,,C22H22O12,,,,Isorhamnetin,18.06.2004 00:00:00,17.10.2013 16:06:21
+306,Flavonoids,Flavonols,Isorhamnetin 7-O-rhamnoside,Methoxyflavonols,478.403,,C22H22O12,,,,Isorhamnetin,21.07.2005 00:00:00,17.10.2013 16:06:20
+362,Flavonoids,Flavonols,Jaceidin 4'-O-glucuronide,Methoxyflavonols,536.439,,C24H24O14,,,,,09.08.2006 12:52:52,13.04.2015 21:57:09
+311,Flavonoids,Flavonols,Kaempferide,Methoxyflavonols,299.255,"3,5,7-Trihydroxy-4'-methoxyflavone ; 4'-Methylkaempferol",C16H11O6,,6099,25201489,Kaempferide,22.04.2004 13:33:20,17.10.2013 16:06:21
+290,Flavonoids,Flavonols,Kaempferol,Flavonols,286.236,"3,5,7,4'-Tetrahydroxyflavone",C15H10O6,520-18-3,28499,5280863,Kaempferol,02.09.2002 11:41:58,13.04.2015 21:57:09
+387,Flavonoids,Flavonols,"Kaempferol 3,7,4'-O-triglucoside",Flavonols,772.658,,C33H40O21,,,,Kaempferol,07.11.2007 00:00:00,17.10.2013 16:06:23
+339,Flavonoids,Flavonols,"Kaempferol 3,7-O-diglucoside",Flavonols,610.518,,C27H30O16,,,6325460,Kaempferol,12.07.2006 10:08:25,13.04.2015 21:57:09
+381,Flavonoids,Flavonols,Kaempferol 3-O-(2''-rhamnosyl-6''-acetyl-galactoside) 7-O-rhamnoside,Flavonols,784.669,,C34H40O21,,,,Kaempferol,21.05.2007 00:00:00,17.10.2013 16:06:23
+380,Flavonoids,Flavonols,Kaempferol 3-O-(2''-rhamnosyl-galactoside) 7-O-rhamnoside,Flavonols,740.659,,C33H40O19,,,,Kaempferol,21.05.2007 00:00:00,17.10.2013 16:06:23
+350,Flavonoids,Flavonols,"Kaempferol 3-O-(6""-malonyl-glucoside)",Flavonols,534.423,,C24H22O14,,,,Kaempferol,08.08.2006 15:26:18,17.10.2013 16:06:22
+377,Flavonoids,Flavonols,Kaempferol 3-O-(6''-acetyl-galactoside) 7-O-rhamnoside,Flavonols,636.555,,C29H32O16,,,,Kaempferol,21.05.2007 00:00:00,17.10.2013 16:06:23
+368,Flavonoids,Flavonols,Kaempferol 3-O-acetyl-glucoside,Flavonols,490.414,,C23H22O12,,,,Kaempferol,23.03.2007 00:00:00,13.04.2015 21:57:09
+316,Flavonoids,Flavonols,Kaempferol 3-O-galactoside,Flavonols,448.377,Trifolin,C21H20O11,23627-87-4,,5488283,Kaempferol,08.09.2004 00:00:00,17.10.2013 16:06:21
+376,Flavonoids,Flavonols,Kaempferol 3-O-galactoside 7-O-rhamnoside,Flavonols,594.518,,C27H30O15,,,,Kaempferol,21.05.2007 00:00:00,17.10.2013 16:06:23
+319,Flavonoids,Flavonols,Kaempferol 3-O-glucoside,Flavonols,448.377,Astragalin,C21H20O11,480-10-4,30200,5282102,Kaempferol,08.09.2004 00:00:00,13.04.2015 21:57:09
+321,Flavonoids,Flavonols,Kaempferol 3-O-glucosyl-rhamnosyl-galactoside,Flavonols,756.659,,C33H40O20,,,,Kaempferol,17.04.2003 13:37:32,17.10.2013 16:06:21
+322,Flavonoids,Flavonols,Kaempferol 3-O-glucosyl-rhamnosyl-glucoside,Flavonols,756.659,,C33H40O20,,,,Kaempferol,17.04.2003 13:41:05,17.10.2013 16:06:21
+305,Flavonoids,Flavonols,Kaempferol 3-O-glucuronide,Flavonols,462.36,,C21H18O12,,,,Kaempferol,14.10.2002 10:02:46,13.04.2015 21:57:09
+351,Flavonoids,Flavonols,Kaempferol 3-O-rhamnoside,Flavonols,431.37,,C21H19O10,,,25202794,Kaempferol,08.08.2006 15:29:09,17.10.2013 16:06:22
+385,Flavonoids,Flavonols,Kaempferol 3-O-rhamnosyl-rhamnosyl-glucoside,Flavonols,740.659,,C33H40O19,,,,Kaempferol,17.10.2007 00:00:00,17.10.2013 16:06:23
+320,Flavonoids,Flavonols,Kaempferol 3-O-rutinoside,Flavonols,594.518,Kaempferol 3-O-rhamnosyl-glucoside ; Nicotiflorine,C27H30O15,,,5483905,Kaempferol,14.09.2004 00:00:00,13.04.2015 21:57:09
+338,Flavonoids,Flavonols,Kaempferol 3-O-sophoroside,Flavonols,610.518,,C27H30O16,19895-95-5,,5282155,Kaempferol,12.07.2006 10:08:25,13.04.2015 21:57:09
+341,Flavonoids,Flavonols,Kaempferol 3-O-sophoroside 7-O-glucoside,Flavonols,772.658,,C33H40O21,,,,Kaempferol,12.07.2006 13:39:20,17.10.2013 16:06:22
+367,Flavonoids,Flavonols,Kaempferol 3-O-xylosyl-glucoside,Flavonols,580.492,,C26H28O15,,,,Kaempferol,23.03.2007 00:00:00,17.10.2013 16:06:23
+370,Flavonoids,Flavonols,Kaempferol 3-O-xylosyl-rutinoside,Flavonols,740.659,,C33H40O19,,,,Kaempferol,27.03.2007 00:00:00,13.04.2015 21:57:09
+375,Flavonoids,Flavonols,Kaempferol 7-O-glucoside,Flavonols,447.369,,C21H19O11,,,25246267,Kaempferol,21.05.2007 00:00:00,17.10.2013 16:06:23
+386,Flavonoids,Flavonols,Methylgalangin,Methoxyflavonols,284.263,,C16H12O5,,,5281946,Methylgalangin,01.11.2007 00:00:00,17.10.2013 16:06:23
+310,Flavonoids,Flavonols,Morin,Flavonols,302.236,"3,5,7,2',4'-Pentahydroxyflavone",C15H10O7,480-16-0,,5281670,Morin,26.01.2005 00:00:00,17.10.2013 16:06:21
+309,Flavonoids,Flavonols,Myricetin,Flavonols,318.235,"3,5,7,3',4',5'-Hexahydroxyflavone",C15H10O8,529-44-2,18152,5281672,Myricetin,14.04.2004 17:07:48,13.04.2015 21:57:09
+332,Flavonoids,Flavonols,Myricetin 3-O-arabinoside,Flavonols,450.35,,C20H18O12,,,,Myricetin,04.02.2005 00:00:00,17.10.2013 16:06:21
+312,Flavonoids,Flavonols,Myricetin 3-O-galactoside,Flavonols,480.376,,C21H20O13,,,,Myricetin,17.04.2003 13:44:06,17.10.2013 16:06:21
+313,Flavonoids,Flavonols,Myricetin 3-O-glucoside,Flavonols,480.376,,C21H20O13,,,5486615,Myricetin,14.09.2004 00:00:00,13.04.2015 21:57:09
+327,Flavonoids,Flavonols,Myricetin 3-O-rhamnoside,Flavonols,464.376,Myricitrin,C21H20O12,17912-87-7,,5281673,Myricetin,23.06.2004 00:00:00,17.10.2013 16:06:21
+308,Flavonoids,Flavonols,Myricetin 3-O-rutinoside,Flavonols,626.517,Myricetin 3-O-rhamnosyl-glucoside,C27H30O17,,,,Myricetin,28.01.2005 00:00:00,13.04.2015 21:57:09
+358,Flavonoids,Flavonols,Patuletin 3-O-(2''-feruloylglucosyl)(1->6)-[apiosyl(1->2)]-glucoside,Methoxyflavonols,964.826,,C43H48O25,,,,Ferulic acid,09.08.2006 12:52:52,13.04.2015 21:57:09
+356,Flavonoids,Flavonols,Patuletin 3-O-glucosyl-(1->6)-[apiosyl(1->2)]-glucoside,Methoxyflavonols,788.657,,C33H40O22,,,,,09.08.2006 12:52:52,13.04.2015 21:57:09
+291,Flavonoids,Flavonols,Quercetin,Flavonols,302.236,"3,5,7,3',4'-Pentahydroxyflavone",C15H10O7,117-39-5,16243,5280343,Quercetin,20.08.2002 00:00:00,13.04.2015 21:57:09
+307,Flavonoids,Flavonols,"Quercetin 3,4'-O-diglucoside",Flavonols,626.517,,C27H30O17,,,5320835,Quercetin,25.09.2002 17:02:15,13.04.2015 21:57:09
+349,Flavonoids,Flavonols,"Quercetin 3-O-(6""-malonyl-glucoside)",Flavonols,550.422,,C24H22O15,,,,Quercetin,08.08.2006 11:12:09,17.10.2013 16:06:22
+352,Flavonoids,Flavonols,"Quercetin 3-O-(6""-malonyl-glucoside) 7-O-glucoside",Flavonols,712.563,,C30H32O20,,,,Quercetin,08.08.2006 15:31:15,17.10.2013 16:06:22
+379,Flavonoids,Flavonols,Quercetin 3-O-(6''-acetyl-galactoside) 7-O-rhamnoside,Flavonols,652.554,,C29H32O17,,,,Quercetin,21.05.2007 00:00:00,17.10.2013 16:06:23
+315,Flavonoids,Flavonols,Quercetin 3-O-acetyl-rhamnoside,Flavonols,490.414,,C23H22O12,,,,Quercetin,28.02.2006 10:03:37,17.10.2013 16:06:21
+298,Flavonoids,Flavonols,Quercetin 3-O-arabinoside,Flavonols,434.35,Avicularin,C20H18O11,22255-13-6,,5481224,Quercetin,21.08.2002 15:21:49,17.10.2013 16:06:20
+292,Flavonoids,Flavonols,Quercetin 3-O-galactoside,Flavonols,464.376,Hyperin ; Hyperoside,C21H20O12,482-36-0,,5281643,Quercetin,22.08.2002 11:31:38,13.04.2015 21:57:09
+378,Flavonoids,Flavonols,Quercetin 3-O-galactoside 7-O-rhamnoside,Flavonols,610.518,,C27H30O16,,,,Quercetin,21.05.2007 00:00:00,17.10.2013 16:06:23
+293,Flavonoids,Flavonols,Quercetin 3-O-glucoside,Flavonols,464.376,Isoquercitrin ; Isoquercetin,C21H20O12,21637-25-2,28299,5280804,Quercetin,22.08.2002 11:36:11,13.04.2015 21:57:09
+323,Flavonoids,Flavonols,Quercetin 3-O-glucosyl-rhamnosyl-galactoside,Flavonols,772.658,,C33H40O21,134953-93-8,,5492482,Quercetin,17.04.2003 13:33:23,17.10.2013 16:06:21
+324,Flavonoids,Flavonols,Quercetin 3-O-glucosyl-rhamnosyl-glucoside,Flavonols,772.658,,C33H40O21,,,,Quercetin,19.06.2006 00:00:00,13.04.2015 21:57:09
+314,Flavonoids,Flavonols,Quercetin 3-O-glucosyl-xyloside,Flavonols,596.491,,C26H28O16,,,,Quercetin,28.02.2006 10:03:37,17.10.2013 16:06:21
+330,Flavonoids,Flavonols,Quercetin 3-O-glucuronide,Flavonols,478.36,,C21H18O13,,,,Quercetin,28.01.2005 15:35:45,13.04.2015 21:57:09
+295,Flavonoids,Flavonols,Quercetin 3-O-rhamnoside,Flavonols,448.377,Quercitrin ; Quercitin ; Quercetrin,C21H20O11,522-12-3,17558,5359430,Quercetin,21.08.2002 15:24:19,13.04.2015 21:57:09
+328,Flavonoids,Flavonols,Quercetin 3-O-rhamnosyl-galactoside,Flavonols,610.518,,C27H30O16,,,5748416,Quercetin,28.10.2004 14:59:47,17.10.2013 16:06:21
+384,Flavonoids,Flavonols,Quercetin 3-O-rhamnosyl-rhamnosyl-glucoside,Flavonols,756.659,Quercetin 3-O-rhamnosyl-(1->2)-rhamnosyl-(1->6)-glucoside,C33H40O20,,,10283930,Quercetin,17.10.2007 00:00:00,17.10.2013 16:06:23
+296,Flavonoids,Flavonols,Quercetin 3-O-rutinoside,Flavonols,610.518,Rutin ; Quercetin 3-O-rhamnosyl-glucoside,C27H30O16,153-18-4,28527,5280805,Quercetin,21.08.2002 15:16:36,13.04.2015 21:57:09
+297,Flavonoids,Flavonols,Quercetin 3-O-sophoroside,Flavonols,626.517,,C27H30O17,18609-17-1,,5282166,Quercetin,30.03.2005 10:22:45,13.04.2015 21:57:09
+294,Flavonoids,Flavonols,Quercetin 3-O-xyloside,Flavonols,434.35,Reynoutrin,C20H18O11,,,5320863,Quercetin,22.08.2002 11:39:46,17.10.2013 16:06:20
+299,Flavonoids,Flavonols,Quercetin 3-O-xylosyl-glucuronide,Flavonols,610.474,,C26H26O17,,,,Quercetin,30.03.2005 10:29:19,17.10.2013 16:06:20
+369,Flavonoids,Flavonols,Quercetin 3-O-xylosyl-rutinoside,Flavonols,742.632,,C32H38O20,,,5281690,Quercetin,27.03.2007 00:00:00,13.04.2015 21:57:09
+335,Flavonoids,Flavonols,Quercetin 4'-O-glucoside,Flavonols,464.376,Spiraeoside,C21H20O12,20229-56-5,,5320844,Quercetin,19.06.2006 00:00:00,13.04.2015 21:57:09
+334,Flavonoids,Flavonols,"Quercetin 7,4'-O-diglucoside",Flavonols,626.517,,C27H30O17,,,11968881,Quercetin,19.06.2006 00:00:00,17.10.2013 16:06:21
+325,Flavonoids,Flavonols,Rhamnetin,Methoxyflavonols,316.262,7-Methyl-quercetin,C16H12O7,90-19-7,,5281691,Rhamnetin,02.09.2002 11:41:58,17.10.2013 16:06:21
+360,Flavonoids,Flavonols,"Spinacetin 3-O-(2""-feruloylglucosyl)(1->6)-[apiosyl(1->2)]-glucoside",Methoxyflavonols,978.853,,C44H50O25,,,,Ferulic acid,09.08.2006 12:52:52,13.04.2015 21:57:09
+359,Flavonoids,Flavonols,"Spinacetin 3-O-(2""-p-coumaroylglucosyl)(1->6)-[apiosyl(1->2)]-glucoside",Methoxyflavonols,948.827,,C43H48O24,,,,p-Coumaric acid,09.08.2006 12:52:52,13.04.2015 21:57:09
+361,Flavonoids,Flavonols,Spinacetin 3-O-glucosyl-(1->6)-glucoside,Methoxyflavonols,670.57,,C29H34O18,,,,,09.08.2006 12:52:52,13.04.2015 21:57:09
+357,Flavonoids,Flavonols,Spinacetin 3-O-glucosyl-(1->6)-[apiosyl(1->2)]-glucoside,Methoxyflavonols,802.684,,C34H42O22,,,,,09.08.2006 12:52:52,13.04.2015 21:57:09
+401,Flavonoids,Isoflavonoids,6''-O-Acetyldaidzin,Isoflavones,458.415,"6''-O-Acetyldaidzein 7-O-glucoside ; 6''-O-acetyl-7,4'-dihydroxyisoflavone 7-O-glucoside ; Acetyldaidzin",C23H22O10,,,156155,Daidzein,08.06.2009 16:10:28,13.04.2015 21:57:10
+405,Flavonoids,Isoflavonoids,6''-O-Acetylgenistin,Isoflavones,474.414,"6''-O-Acetylgenistein 7-O-glucoside; 6''-O-Acetyl-5,7,4'-trihydroxyisoflavone 7-O-glucoside; Acetylgenistin",C23H22O11,,,5315831,Genistein,10.06.2009 12:35:55,13.04.2015 21:57:10
+406,Flavonoids,Isoflavonoids,6''-O-Acetylglycitin,Methoxyisoflavones,488.441,"6''-O-Acetylglycitein 7-O-glucoside; 6''-O-acetyl-7,4'-dihydroxy-6-methoxyisoflavone 7-O-glucoside; Acetylglycitin",C24H24O11,,,,Glycitein,10.06.2009 12:47:54,13.04.2015 21:57:10
+407,Flavonoids,Isoflavonoids,6''-O-Malonyldaidzin,Isoflavones,502.424,"6''-O-Malonyldaidzein 7-O-glucoside; 6''-O-Malonyl-7,4'-dihydroxyisoflavone 7-O-glucoside; Malonyldaidzin",C24H22O12,,,9913968,Daidzein,10.06.2009 15:09:22,13.04.2015 21:57:10
+402,Flavonoids,Isoflavonoids,6''-O-Malonylgenistin,Isoflavones,518.424,"6''-O-Malonylgenistein 7-O-glucoside ; 6''-O-Malonyl-5,7,4'-trihydroxyisoflavone 7-O-glucoside ; Malonylgenistin",C24H22O13,,,15934091,Genistein,08.06.2009 16:19:20,13.04.2015 21:57:10
+408,Flavonoids,Isoflavonoids,6''-O-Malonylglycitin,Methoxyisoflavones,532.45,"6''-O-Malonylglycitein 7-O-glucoside; 6''-O-Malonyl-7,4'-dihydroxy-6-methoxyisoflavone 7-O-glucoside; Malonylglycitin",C25H24O13,,,23724657,Glycitein,10.06.2009 14:56:15,13.04.2015 21:57:10
+397,Flavonoids,Isoflavonoids,Biochanin A,Methoxyisoflavones,284.263,"5,7-Dihydroxy-4'-methoxyisoflavone ; 4'-Methylgenistein ; Pratensol",C16H12O5,491-80-5,17574,5280373,Biochanin A,08.09.2004 00:00:00,17.10.2013 16:06:24
+399,Flavonoids,Isoflavonoids,Coumestrol,Coumestans,268.221,"7,12-Dihydroxycoumestan ; Chrysanthin",C15H8O5,479-13-0,,5281707,Coumestrol,29.06.2007 00:00:00,17.10.2013 16:06:24
+394,Flavonoids,Isoflavonoids,Daidzein,Isoflavones,254.238,"7,4'-Dihydroxyisoflavone ; Daidzeol",C15H10O4,486-66-8,28197,5281708,Daidzein,24.11.2004 00:00:00,13.04.2015 21:57:09
+403,Flavonoids,Isoflavonoids,Daidzin,Isoflavones,416.378,"Daidzein 7-O-glucoside; 7,4'-Dihydroxyisoflavone 7-O-glucoside",C21H20O9,552-66-9,42202,107971,Daidzein,08.06.2009 16:37:45,13.04.2015 21:57:10
+395,Flavonoids,Isoflavonoids,Formononetin,Methoxyisoflavones,268.264,7-Hydroxy-4'-methoxyisoflavone ; 4'-Methyldaidzein ; Biochanin B ; Neochanin ; Pratol,C16H12O4,485-72-3,18088,5280378,Formononetin,08.09.2004 00:00:00,17.10.2013 16:06:24
+396,Flavonoids,Isoflavonoids,Genistein,Isoflavones,270.237,"5,7,4'-Trihydroxyisoflavone ; Prunetol ; Sophoricol ; Genisteol",C15H10O5,446-72-0,28088,5280961,Genistein,24.11.2004 00:00:00,13.04.2015 21:57:09
+404,Flavonoids,Isoflavonoids,Genistin,Isoflavones,432.378,"Genistein 7-O-glucoside; 5,7,4'-Trihydroxyisoflavone 7-O-glucoside",C21H20O10,529-59-9,27514,5281377,Genistein,08.06.2009 16:52:07,13.04.2015 21:57:10
+398,Flavonoids,Isoflavonoids,Glycitein,Methoxyisoflavones,284.263,"7,4'-Dihydroxy-6-methoxyisoflavone ; Glycitein",C16H12O5,40957-83-3,,5317750,Glycitein,29.06.2007 00:00:00,13.04.2015 21:57:10
+400,Flavonoids,Isoflavonoids,Glycitin,Methoxyisoflavones,446.404,"Glycitein 7-O-glucoside ; 7,4'-Dihydroxyi-6-methoxyisoflavone 7-O-glucoside",C22H22O10,,,187808,Glycitein,08.06.2009 15:59:33,13.04.2015 21:57:10
+603,Lignans,Lignans,1-Acetoxypinoresinol,Lignans,416.421,,C22H24O8,,,442831,1-Acetoxypinoresinol,02.11.2007 00:00:00,17.10.2013 16:06:32
+614,Lignans,Lignans,7-Hydroxymatairesinol,Lignans,374.384,,C20H22O7,,,,7-Hydroxymatairesinol,05.09.2005 00:00:00,17.10.2013 16:06:32
+621,Lignans,Lignans,7-Hydroxysecoisolariciresinol,Lignans,374.471,,C22H30O5,,,,7-Hydroxysecoisolariciresinol,11.12.2007 00:00:00,17.10.2013 16:06:32
+618,Lignans,Lignans,7-Oxomatairesinol,Lignans,372.369,,C20H20O7,,,,7-Oxomatairesinol,11.12.2007 00:00:00,17.10.2013 16:06:32
+624,Lignans,Lignans,Anhydro-secoisolariciresinol,Lignans,344.402,,C20H24O5,,,,Anhydro-secoisolariciresinol,11.12.2007 00:00:00,17.10.2013 16:06:32
+600,Lignans,Lignans,Arctigenin,Lignans,372.412,,C21H24O6,7770-78-7,,64981,Arctigenin,05.09.2005 15:39:13,17.10.2013 16:06:31
+620,Lignans,Lignans,Conidendrin,Lignans,356.369,,C20H20O6,518-55-8,,72506,Conidendrin,11.12.2007 00:00:00,17.10.2013 16:06:32
+617,Lignans,Lignans,Cyclolariciresinol,Lignans,360.401,,C20H24O6,,,,Cyclolariciresinol,11.12.2007 00:00:00,17.10.2013 16:06:32
+625,Lignans,Lignans,Dimethylmatairesinol,Lignans,386.438,Methylarctigenin,C22H26O6,,,384877,Dimethylmatairesinol,11.12.2007 00:00:00,17.10.2013 16:06:32
+626,Lignans,Lignans,Episesamin,Lignans,354.353,,C20H18O6,607-80-7,,72307,Episesamin,12.12.2007 00:00:00,17.10.2013 16:06:32
+627,Lignans,Lignans,Episesaminol,Lignans,370.353,,C20H18O7,,,,Episesaminol,12.12.2007 00:00:00,17.10.2013 16:06:33
+615,Lignans,Lignans,Isohydroxymatairesinol,Lignans,374.384,,C20H22O7,,,,Isohydroxymatairesinol,05.09.2005 00:00:00,17.10.2013 16:06:32
+599,Lignans,Lignans,Isolariciresinol,Lignans,360.401,,C20H24O6,548-29-8,,160521,Isolariciresinol,05.09.2005 15:36:28,17.10.2013 16:06:31
+596,Lignans,Lignans,Lariciresinol,Lignans,360.401,,C20H24O6,83327-19-9,,332427,Lariciresinol,05.09.2005 15:30:50,17.10.2013 16:06:31
+623,Lignans,Lignans,Lariciresinol-sesquilignan,Lignans,556.601,,C30H36O10,,,,Lariciresinol-sesquilignan,11.12.2007 00:00:00,17.10.2013 16:06:32
+595,Lignans,Lignans,Matairesinol,Lignans,358.385,,C20H22O6,580-72-3,,119205,Matairesinol,05.09.2005 00:00:00,17.10.2013 16:06:31
+602,Lignans,Lignans,Medioresinol,Lignans,388.411,,C21H24O7,,,332425,Medioresinol,28.09.2006 00:00:00,17.10.2013 16:06:31
+622,Lignans,Lignans,Nortrachelogenin,Lignans,374.384,,C20H22O7,34444-37-6,,394846,Nortrachelogenin,11.12.2007 00:00:00,17.10.2013 16:06:32
+597,Lignans,Lignans,Pinoresinol,Lignans,358.385,,C20H22O6,487-36-5,,73399,Pinoresinol,05.09.2005 15:32:22,17.10.2013 16:06:31
+594,Lignans,Lignans,Secoisolariciresinol,Lignans,365.395,,C20H26O6,29388-59-8,,11646293,Secoisolariciresinol,23.04.2003 17:17:14,17.10.2013 16:06:31
+616,Lignans,Lignans,Secoisolariciresinol-sesquilignan,Lignans,558.617,,C30H38O10,,,,Secoisolariciresinol-sesquilignan,11.12.2007 00:00:00,17.10.2013 16:06:32
+605,Lignans,Lignans,Sesamin,Lignans,354.353,,C20H18O6,607-80-7,,72307,Sesamin,05.12.2007 00:00:00,17.10.2013 16:06:32
+608,Lignans,Lignans,Sesaminol,Lignans,370.353,,C20H18O7,74061-79-3,,94672,Sesaminol,05.12.2007 00:00:00,17.10.2013 16:06:32
+612,Lignans,Lignans,Sesamol,Lignans,138.121,"1,3-Benzodioxol-5-ol ; 5-Benzodioxolol ; 3,4-(Methylenedioxy)phenol ; 5-Hydroxy-1,3-benzodioxole",C7H6O3,533-31-3,,68289,Sesamol,05.12.2007 00:00:00,17.10.2013 16:06:32
+606,Lignans,Lignans,Sesamolin,Lignans,370.353,,C20H18O7,526-07-8,,101746,Sesamolin,05.12.2007 00:00:00,17.10.2013 16:06:32
+607,Lignans,Lignans,Sesamolinol,Lignans,372.369,,C20H20O7,100016-94-2,,443019,Sesamolinol,05.12.2007 00:00:00,17.10.2013 16:06:32
+598,Lignans,Lignans,Syringaresinol,Lignans,418.437,,C22H26O8,21453-69-0,49211,100067,Syringaresinol,05.09.2005 15:34:29,17.10.2013 16:06:31
+619,Lignans,Lignans,Todolactol A,Lignans,376.4,,C20H24O7,,,,Todolactol A,11.12.2007 00:00:00,17.10.2013 16:06:32
+601,Lignans,Lignans,Trachelogenin,Lignans,388.411,,C21H24O7,,,452855,Trachelogenin,05.09.2005 15:41:55,17.10.2013 16:06:31
+633,Other polyphenols,Alkylmethoxyphenols,4-Ethylguaiacol,Alkylmethoxyphenols,152.19,4-Ethyl-2-methoxyphenol,C9H12O2,2785-89-9,,62465,4-Ethylguaiacol,21.02.2007 00:00:00,17.10.2013 16:06:33
+632,Other polyphenols,Alkylmethoxyphenols,4-Vinylguaiacol,Alkylmethoxyphenols,150.174,4-Vinyl-2-methoxyphenol,C9H10O2,7786-61-0,,332,4-Vinylguaiacol,21.02.2007 00:00:00,17.10.2013 16:06:33
+634,Other polyphenols,Alkylmethoxyphenols,4-Vinylsyringol,Alkylmethoxyphenols,242.27,"2,6-Dimethoxy-4-vinylphenol ; 4-Vinyl-2,6-dimethoxyphenol ; 4-hydroxy-3,5-dimethoxystyrene ; Canolol",C15H14O3,,,,4-Vinylsyringol,03.12.2007 00:00:00,17.10.2013 16:06:33
+703,Other polyphenols,Alkylphenols,3-Methylcatechol,Alkylphenols,124.137,"3-Methyl-1,2-dihydroxybenzene ; 3-Methyl-1,2-benzenediol ; 3-Methylpyrocatechin ; 3-Methylpyrocatechol ; Dihydroxytoluene",C7H8O2,488-17-5,18404,340,3-Methylcatechol,27.04.2006 11:23:26,17.10.2013 16:06:35
+705,Other polyphenols,Alkylphenols,4-Ethylcatechol,Alkylphenols,138.164,"4-Ethyl-1,2-dihydroxybenzene ; 4-Ethyl-1,2-benzenediol ; 4-Ethylpyrocatechin ; 4-Ethylpyrocatechol",C8H10O2,1124-39-6,,70761,4-Ethylcatechol,27.04.2006 11:23:26,17.10.2013 16:06:35
+707,Other polyphenols,Alkylphenols,4-Ethylphenol,Alkylphenols,122.164,,C8H10O,123-07-9,49584,31242,4-Ethylphenol,21.02.2007 00:00:00,17.10.2013 16:06:35
+704,Other polyphenols,Alkylphenols,4-Methylcatechol,Alkylphenols,124.137,"4-Methyl-1,2-dihydroxybenzene ; 4-Methyl-1,2-benzenediol ; 4-Methylpyrocatechin ; 4-Methylpyrocatechol ; Homocatechol",C7H8O2,452-86-8,17254,9958,4-Methylcatechol,27.04.2006 11:23:26,17.10.2013 16:06:35
+706,Other polyphenols,Alkylphenols,4-Vinylphenol,Alkylphenols,120.148,,C8H8O,2628-17-3,,62453,4-Vinylphenol,21.02.2007 00:00:00,17.10.2013 16:06:35
+690,Other polyphenols,Alkylphenols,5-Heneicosenylresorcinol,Alkylphenols,402,,C27H46O2,,,,5-Heneicosenylresorcinol,03.05.2006 09:14:47,15.10.2011 02:50:07
+691,Other polyphenols,Alkylphenols,5-Heneicosylresorcinol,Alkylphenols,404.669,,C27H48O2,,,,5-Heneicosylresorcinol,10.05.2006 16:47:24,17.10.2013 16:06:35
+692,Other polyphenols,Alkylphenols,5-Heptadecylresorcinol,Alkylphenols,348.562,,C23H40O2,,,,5-Heptadecylresorcinol,03.05.2006 09:06:01,17.10.2013 16:06:35
+693,Other polyphenols,Alkylphenols,5-Nonadecenylresorcinol,Alkylphenols,374,,C25H42O2,,,,5-Nonadecenylresorcinol,10.05.2006 16:15:19,15.10.2011 02:50:07
+694,Other polyphenols,Alkylphenols,5-Nonadecylresorcinol,Alkylphenols,376.616,,C25H44O2,,,,5-Nonadecylresorcinol,03.05.2006 09:08:10,17.10.2013 16:06:35
+695,Other polyphenols,Alkylphenols,5-Pentacosenylresorcinol,Alkylphenols,458.759,,C31H54O2,,,,5-Pentacosenylresorcinol,03.05.2006 09:33:01,17.10.2013 16:06:35
+696,Other polyphenols,Alkylphenols,5-Pentacosylresorcinol,Alkylphenols,460.775,,C31H56O2,,,,5-Pentacosylresorcinol,10.05.2006 16:50:37,17.10.2013 16:06:35
+697,Other polyphenols,Alkylphenols,5-Pentadecylresorcinol,Alkylphenols,320.509,,C21H36O2,3158-56-3,,76617,5-Pentadecylresorcinol,03.05.2006 09:34:01,17.10.2013 16:06:35
+698,Other polyphenols,Alkylphenols,5-Tricosenylresorcinol,Alkylphenols,430.706,,C29H50O2,,,,5-Tricosenylresorcinol,03.05.2006 09:31:35,17.10.2013 16:06:35
+699,Other polyphenols,Alkylphenols,5-Tricosylresorcinol,Alkylphenols,432.722,,C29H52O2,,,,5-Tricosylresorcinol,10.05.2006 16:54:37,17.10.2013 16:06:35
+715,Other polyphenols,Curcuminoids,Bisdemethoxycurcumin,Curcuminoids,308.328,,C19H16O4,24939-16-0,,5315472,Bisdemethoxycurcumin,05.11.2007 00:00:00,17.10.2013 16:06:36
+713,Other polyphenols,Curcuminoids,Curcumin,Curcuminoids,368.38,,C21H20O6,458-37-7,3962,969516,Curcumin,05.11.2007 00:00:00,17.10.2013 16:06:36
+714,Other polyphenols,Curcuminoids,Demethoxycurcumin,Curcuminoids,338.354,,C20H18O5,24939-17-1,,5469424,Demethoxycurcumin,05.11.2007 00:00:00,17.10.2013 16:06:36
+717,Other polyphenols,Furanocoumarins,Bergapten,Furanocoumarins,216.189,5-Methoxypsoralen,C12H8O4,484-20-8,18293,2355,Bergapten,07.05.2004 10:51:29,17.10.2013 16:06:36
+720,Other polyphenols,Furanocoumarins,Isopimpinellin,Furanocoumarins,246.215,"5,8-Dimethoxypsoralen",C13H10O5,482-27-9,28853,68079,Isopimpinellin,15.02.2007 00:00:00,17.10.2013 16:06:36
+718,Other polyphenols,Furanocoumarins,Psoralen,Furanocoumarins,186.163,"6,7-Furanocoumarin",C11H6O3,66-97-7,27616,6199,Psoralen,15.02.2007 00:00:00,17.10.2013 16:06:36
+719,Other polyphenols,Furanocoumarins,Xanthotoxin,Furanocoumarins,216.189,8-Methoxypsoralen,C12H8O4,298-81-7,18358,4114,Xanthotoxin,15.02.2007 00:00:00,17.10.2013 16:06:36
+725,Other polyphenols,Hydroxybenzaldehydes,4-Hydroxybenzaldehyde,Hydroxybenzaldehydes,122.121,,C7H6O2,123-08-0,17597,126,4-Hydroxybenzaldehyde,11.10.2005 16:29:55,17.10.2013 16:06:36
+726,Other polyphenols,Hydroxybenzaldehydes,Gallic aldehyde,Hydroxybenzaldehydes,154.12,"3,4,5-Trihydroxybenzoic aldehyde",C7H6O4,,,,Gallic aldehyde,28.03.2007 00:00:00,17.10.2013 16:06:36
+727,Other polyphenols,Hydroxybenzaldehydes,p-Anisaldehyde,Methoxybenzaldehydes,136.148,4-Methoxybenzoic aldehyde ; Anisic aldehyde,C8H8O2,123-11-5,,31244,p-Anisaldehyde,18.12.2007 13:31:28,17.10.2013 16:06:36
+723,Other polyphenols,Hydroxybenzaldehydes,Protocatechuic aldehyde,Hydroxybenzaldehydes,138.121,"3,4-Dihydroxybenzoic aldehyde",C7H6O3,139-85-5,50205,8768,Protocatechuic aldehyde,17.08.2005 10:39:01,17.10.2013 16:06:36
+722,Other polyphenols,Hydroxybenzaldehydes,Syringaldehyde,Methoxybenzaldehydes,182.173,"3,5-Dimethoxy-4-hydroxybenzoic aldehyde",C9H10O4,134-96-3,,8655,Syringaldehyde,17.08.2005 10:35:57,17.10.2013 16:06:36
+724,Other polyphenols,Hydroxybenzaldehydes,Vanillin,Methoxybenzaldehydes,152.147,4-Hydroxy-3-methoxy-benzoic aldehyde ; Methylprotocatechuic aldehyde ; Vanillic aldehyde ; p-Vanillin,C8H8O3,121-33-5,18346,1183,Vanillin,17.08.2005 11:50:00,13.04.2015 21:57:10
+730,Other polyphenols,Hydroxybenzoketones,"2,3-Dihydroxy-1-guaiacylpropanone",Methoxybenzoketones,212.199,,C10H12O5,,,,"2,3-Dihydroxy-1-guaiacylpropanone",06.05.2004 16:14:14,17.10.2013 16:06:37
+729,Other polyphenols,Hydroxybenzoketones,3-Methoxyacetophenone,Methoxybenzoketones,150.174,3-Acetylanisole ; 1-(3-methoxyphenyl)-ethanone,C9H10O2,,,11460,3-Methoxyacetophenone,24.12.2007 00:00:00,17.10.2013 16:06:36
+630,Other polyphenols,Hydroxycinnamaldehydes,Ferulaldehyde,Methoxycinnamaldehydes,178.185,4-Hydroxy-3-methoxycinnamaldehyde ; Coniferilaldehyde,C10H10O3,458-36-6,16547,9984,Ferulaldehyde,06.10.2005 14:50:26,17.10.2013 16:06:33
+631,Other polyphenols,Hydroxycinnamaldehydes,Sinapaldehyde,Methoxycinnamaldehydes,208.211,,C11H12O4,,27949,5280802,Sinapaldehyde,06.10.2005 14:50:26,17.10.2013 16:06:33
+642,Other polyphenols,Hydroxycoumarins,4-Hydroxycoumarin,Hydroxycoumarins,162.142,,C9H6O3,,,54682930,4-Hydroxycoumarin,27.09.2006 00:00:00,08.01.2015 08:34:29
+635,Other polyphenols,Hydroxycoumarins,Coumarin,Hydroxycoumarins,146.143,"1,2-Benzopyrone",C9H6O2,91-64-5,28794,323,Coumarin,17.12.2007 00:00:00,17.10.2013 16:06:33
+639,Other polyphenols,Hydroxycoumarins,Esculetin,Hydroxycoumarins,178.141,"6,7-Dihydroxycoumarin ; 6,7-dihydroxy-2H-1-benzopyran-2-one",C9H6O4,305-01-1,,5281416,Esculetin,23.06.2004 00:00:00,17.10.2013 16:06:33
+640,Other polyphenols,Hydroxycoumarins,Esculin,Hydroxycoumarins,340.282,"6,7-Dihydroxycoumarin 6-b-D-glucopyranoside",C15H16O9,531-75-9,,5281417,Esculetin,27.09.2006 00:00:00,17.10.2013 16:06:33
+637,Other polyphenols,Hydroxycoumarins,Mellein,Hydroxycoumarins,178.185,"3,4-Dihydro-8-hydroxy-3-methylisocoumarin ; Ochracin ; Antibiotic AO-2 ; Antibiotic BV-1",C10H10O3,,,28516,Mellein,08.08.2007 00:00:00,17.10.2013 16:06:33
+638,Other polyphenols,Hydroxycoumarins,Scopoletin,Hydroxycoumarins,192.168,6-O-Methylesculetin ; 7-Hydroxy-5-methoxycoumarin,C10H8O4,92-61-5,17488,5280460,Scopoletin,23.06.2004 00:00:00,17.10.2013 16:06:33
+641,Other polyphenols,Hydroxycoumarins,Umbelliferone,Hydroxycoumarins,162.142,7-Hydroxycoumarin,C9H6O3,93-35-6,27510,5281426,Umbelliferone,27.09.2006 00:00:00,17.10.2013 16:06:33
+644,Other polyphenols,Hydroxyphenylpropenes,2-Methoxy-5-prop-1-enylphenol,Methoxyphenylpropenes,164.201,2-Methoxy-5-prop-1-enylbenzene,C10H12O2,,,596370,2-Methoxy-5-prop-1-enylphenol,24.12.2007 14:59:41,17.10.2013 16:06:33
+647,Other polyphenols,Hydroxyphenylpropenes,Acetyl eugenol,Methoxyphenylpropenes,206.238,4-Allyl-2-methoxyphenol acetate ; Eugenol acetate,C12H14O3,93-28-7,,7136,Acetyl eugenol,27.11.2007 00:00:00,17.10.2013 16:06:33
+645,Other polyphenols,Hydroxyphenylpropenes,Anethole,Methoxyphenylpropenes,148.202,4-Propenylanisole ; 1-Methoxy-4-prop-1-enylbenzene ; Isoestragole,C10H12O,104-46-1,35616,637563,Anethole,27.11.2007 00:00:00,17.10.2013 16:06:33
+649,Other polyphenols,Hydroxyphenylpropenes,Estragole,Methoxyphenylpropenes,148.202,4-Allylanisole ; 1-Methoxy-4-prop-2-enylbenzene,C10H12O,140-67-0,,8815,Estragole,27.11.2007 00:00:00,17.10.2013 16:06:33
+646,Other polyphenols,Hydroxyphenylpropenes,Eugenol,Methoxyphenylpropenes,164.201,4-Allylguaiacol ; 2-Methoxy-4-prop-2-enylbenzene ; Eugenic acid,C10H12O2,97-53-0,4917,3314,Eugenol,02.11.2007 10:59:32,17.10.2013 16:06:33
+648,Other polyphenols,Hydroxyphenylpropenes,[6]-Gingerol,Methoxyphenylpropenes,300.434,5-Hydroxy-1-(4-hydroxy-3-methoxyphenyl)decan-3-one,C17H32O4,1391-73-7,,42675,[6]-Gingerol,27.11.2007 00:00:00,17.10.2013 16:06:33
+650,Other polyphenols,Methoxyphenols,Guaiacol,Methoxyphenols,124.137,2-Methoxyphenol ; 1-hydroxy-2-methoxybenzene,C7H8O2,90-05-1,28591,460,Guaiacol,06.04.2007 00:00:00,17.10.2013 16:06:33
+653,Other polyphenols,Naphtoquinones,"1,4-Naphtoquinone",Naphtoquinones,158.153,,C10H6O2,,,,"1,4-Naphtoquinone",01.10.2007 13:34:58,17.10.2013 16:06:33
+652,Other polyphenols,Naphtoquinones,Juglone,Naphtoquinones,174.153,,C10H6O3,481-39-0,15794,3806,Juglone,01.10.2007 13:34:58,17.10.2013 16:06:33
+661,Other polyphenols,Other polyphenols,"3,4-Dihydroxyphenylglycol",Other polyphenols,170.163,"3,4-Dihydroxyphenyl-ethyleneglycol ; DOPEG",C8H10O4,,,91528,"3,4-Dihydroxyphenylglycol",26.01.2005 13:32:01,17.10.2013 16:06:34
+659,Other polyphenols,Other polyphenols,Arbutin,Other polyphenols,272.251,Hydroquinone-b-D-glucopyranoside,C12H16O7,497-76-7,18305,346,,18.06.2004 00:00:00,17.10.2013 16:06:34
+654,Other polyphenols,Other polyphenols,Catechol,Other polyphenols,110.111,"1,2-Dihydroxybenzene ; 1,2-Benzenediol ; Pyrocatechin ; Pyrocatechol",C6H6O2,120-80-9,18135,289,Catechol,27.04.2006 11:23:26,17.10.2013 16:06:33
+657,Other polyphenols,Other polyphenols,Phenol,Other polyphenols,94.1112,Hydroxybenzene,C6H6O,108-95-2,15882,996,Phenol,06.04.2007 11:32:59,17.10.2013 16:06:34
+656,Other polyphenols,Other polyphenols,Phlorin,Other polyphenols,288.251,"3,5-Dihydroxyphenyl b-D-glucopyranoside ; Phloroglucinol glucoside",C12H16O8,,52560,476785,,19.05.2004 16:25:36,17.10.2013 16:06:34
+655,Other polyphenols,Other polyphenols,Pyrogallol,Other polyphenols,126.11,"1,2,3-Trihydroxybenzene ; 1,2,3-Benzenetriol ; Pyrogallic acid",C6H6O3,87-66-1,16164,1057,Pyrogallol,27.04.2006 11:23:26,17.10.2013 16:06:33
+666,Other polyphenols,Phenolic terpenes,Carnosic acid,Phenolic terpenes,332.434,Salvin,C20H28O4,3650-09-7,,65126,Carnosic acid,17.10.2007 00:00:00,17.10.2013 16:06:34
+668,Other polyphenols,Phenolic terpenes,Carnosol,Phenolic terpenes,330.418,,C20H26O4,5957-80-2,,2579,Carnosol,23.11.2007 00:00:00,17.10.2013 16:06:34
+672,Other polyphenols,Phenolic terpenes,Carvacrol,Phenolic terpenes,150.218,5-Isopropyl-2-methylphenol,C10H14O,499-75-2,,10364,Carvacrol,27.11.2007 00:00:00,17.10.2013 16:06:34
+669,Other polyphenols,Phenolic terpenes,Epirosmanol,Phenolic terpenes,346.417,,C20H26O5,,,,Epirosmanol,27.11.2007 00:00:00,17.10.2013 16:06:34
+670,Other polyphenols,Phenolic terpenes,Rosmadial,Phenolic terpenes,344.402,,C20H24O5,,,,Rosmadial,27.11.2007 00:00:00,17.10.2013 16:06:34
+667,Other polyphenols,Phenolic terpenes,Rosmanol,Phenolic terpenes,346.417,,C20H26O5,,,455261,Rosmanol,17.10.2007 00:00:00,17.10.2013 16:06:34
+671,Other polyphenols,Phenolic terpenes,Thymol,Phenolic terpenes,150.218,6-Isopropyl-3-methylphenol,C10H14O,89-83-8,27607,6989,Thymol,27.11.2007 00:00:00,17.10.2013 16:06:34
+675,Other polyphenols,Tyrosols,"3,4-DHPEA-AC",Tyrosols,196.2,"Hydroxytyrosol acetate ; 2-(3,4-Dihydroxyphenyl) ethyl acetate ; 4-(Acetoxyethyl)-1,2-dihydroxybenzene ; 4-(2-(Acetyloxy)ethyl)-1,2-benzenediol",C10H12O4,,,,"3,4-DHPEA-AC",31.10.2007 00:00:00,17.10.2013 16:06:34
+679,Other polyphenols,Tyrosols,"3,4-DHPEA-EA",Tyrosols,378.373,"3,4-DHPEA-Elenolic acid mono-Aldehyde ; Oleuropein-aglycone mono-aldehyde ; (Oleuropein-aglycone major form)",C19H22O8,,,,Hydroxytyrosol,17.10.2007 00:00:00,17.10.2013 16:06:34
+681,Other polyphenols,Tyrosols,"3,4-DHPEA-EDA",Tyrosols,320.337,"3,4-DHPEA-Elenolic acid Di-Aldehyde ; Oleuropein-aglycone di-aldehyde ; (Decarboxymethyl oleuropein-aglycone major form)",C17H20O6,,,,Hydroxytyrosol,17.10.2007 00:00:00,17.10.2013 16:06:35
+678,Other polyphenols,Tyrosols,Demethyloleuropein,Tyrosols,526.487,,C24H30O13,,,,Hydroxytyrosol,17.10.2007 00:00:00,17.10.2013 16:06:34
+674,Other polyphenols,Tyrosols,Hydroxytyrosol,Tyrosols,154.163,"3,4-DHPEA ; 4-(2-Hydroxyethyl)benzene-1,2-diol ; 2-(3,4-Dihydroxyphenyl)ethanol ; 3,4-Dihydroxyphenylethanol",C8H10O3,10597-60-1,,82755,Hydroxytyrosol,05.09.2005 14:01:22,17.10.2013 16:06:34
+682,Other polyphenols,Tyrosols,Hydroxytyrosol 4-O-glucoside,Tyrosols,316.304,,C14H20O8,,,,Hydroxytyrosol,17.10.2007 00:00:00,17.10.2013 16:06:35
+680,Other polyphenols,Tyrosols,Ligstroside,Tyrosols,524.514,p-HPEA-Elenolic acid glucoside,C25H32O12,32619-42-4,,,Tyrosol,17.10.2007 00:00:00,17.10.2013 16:06:35
+689,Other polyphenols,Tyrosols,Ligstroside-aglycone,Tyrosols,362.374,p-HPEA-Elenolic acid,C19H22O7,,,,Tyrosol,29.11.2007 00:00:00,17.10.2013 16:06:35
+684,Other polyphenols,Tyrosols,Oleoside 11-methylester,Tyrosols,404.366,,C17H24O11,,,,Oleoside 11-methylester,17.10.2007 00:00:00,17.10.2013 16:06:35
+683,Other polyphenols,Tyrosols,Oleoside dimethylester,Tyrosols,418.392,,C18H26O11,,,6476722,Oleoside dimethylester,17.10.2007 00:00:00,17.10.2013 16:06:35
+677,Other polyphenols,Tyrosols,Oleuropein,Tyrosols,540.514,"3,4-DHPEA-Elenolic acid glucoside",C25H32O13,32619-42-4,,5281544,Tyrosol,17.10.2007 00:00:00,17.10.2013 16:06:34
+688,Other polyphenols,Tyrosols,Oleuropein-aglycone,Tyrosols,378.373,"3,4-DHPEA-Elenolic acid",C19H22O8,,,,Tyrosol,29.11.2007 00:00:00,17.10.2013 16:06:35
+676,Other polyphenols,Tyrosols,p-HPEA-AC,Tyrosols,180.201,Tyrosol acetate ; 4-(Acetoxyethyl)-1-hydroxybenzene,C10H12O3,,,,p-HPEA-AC,17.10.2007 00:00:00,17.10.2013 16:06:34
+687,Other polyphenols,Tyrosols,p-HPEA-EA,Tyrosols,362,p-HPEA-Elenolic acid mono-Aldehyde ; Ligstroside-aglycone mono-aldehyde ; (Ligstroside-aglycone major form),C19H22O7,,,,Tyrosol,17.10.2007 00:00:00,15.10.2011 02:50:06
+686,Other polyphenols,Tyrosols,p-HPEA-EDA,Tyrosols,304.338,p-HPEA-Elenolic acid Di-Aldehyde ; Ligstroside-aglycone di-aldehyde ; (Decarboxymethyl ligstroside-aglycone major form),C17H20O5,,,,Tyrosol,17.10.2007 00:00:00,17.10.2013 16:06:35
+673,Other polyphenols,Tyrosols,Tyrosol,Tyrosols,138.164,"p-HPEA ; 4-(2-Hydroxyethyl)phenol ; 2-(4-Hydroxyphenyl)ethanol ; 2,4-Hydroxyphenyl-ethyl-alcohol ; 4-Hydroxyphenylethanol",C8H10O2,501-94-0,,10393,Tyrosol,05.09.2005 13:56:59,17.10.2013 16:06:34
+430,Phenolic acids,Hydroxybenzoic acids,"2,3-Dihydroxybenzoic acid",Hydroxybenzoic acids,154.12,,C7H6O4,303-38-8,18026,19,"2,3-Dihydroxybenzoic acid",26.01.2005 13:37:52,17.10.2013 16:06:25
+431,Phenolic acids,Hydroxybenzoic acids,"2,4-Dihydroxybenzoic acid",Hydroxybenzoic acids,154.12,,C7H6O4,89-86-1,,1491,"2,4-Dihydroxybenzoic acid",26.01.2005 13:37:52,17.10.2013 16:06:25
+437,Phenolic acids,Hydroxybenzoic acids,"2,6-Dihydroxybenzoic acid",Hydroxybenzoic acids,154.12,,C7H6O4,303-07-1,,9338,"2,6-Dihydroxybenzoic acid",26.04.2006 16:02:55,17.10.2013 16:06:25
+428,Phenolic acids,Hydroxybenzoic acids,2-Hydroxybenzoic acid,Hydroxybenzoic acids,138.121,o-Hydroxybenzoic acid ; Salicylic acid,C7H6O3,69-72-7,16914,338,2-Hydroxybenzoic acid,26.01.2005 00:00:00,13.04.2015 21:57:10
+436,Phenolic acids,Hydroxybenzoic acids,"3,5-Dihydroxybenzoic acid",Hydroxybenzoic acids,154.12,a-Resorcylic acid ; 5-Carboxyresorcinol,C7H6O4,99-10-5,,7424,"3,5-Dihydroxybenzoic acid",26.04.2006 16:02:55,17.10.2013 16:06:25
+429,Phenolic acids,Hydroxybenzoic acids,3-Hydroxybenzoic acid,Hydroxybenzoic acids,138.121,m-Hydroxybenzoic acid,C7H6O3,99-06-9,30764,7420,3-Hydroxybenzoic acid,26.01.2005 00:00:00,17.10.2013 16:06:25
+418,Phenolic acids,Hydroxybenzoic acids,4-Hydroxybenzoic acid,Hydroxybenzoic acids,138.121,p-Hydroxybenzoic acid,C7H6O3,99-96-7,30763,135,4-Hydroxybenzoic acid,06.05.2004 16:05:32,13.04.2015 21:57:10
+433,Phenolic acids,Hydroxybenzoic acids,4-Hydroxybenzoic acid 4-O-glucoside,Hydroxybenzoic acids,300.261,,C13H16O8,,,,4-Hydroxybenzoic acid,04.02.2005 00:00:00,17.10.2013 16:06:25
+421,Phenolic acids,Hydroxybenzoic acids,5-O-Galloylquinic acid,Hydroxybenzoic acids,344.271,Theogallin,C14H16O10,,9522,460894,Gallic acid,28.10.2004 14:50:38,17.10.2013 16:06:25
+427,Phenolic acids,Hydroxybenzoic acids,Benzoic acid,Hydroxybenzoic acids,122.121,,C7H6O2,65-85-0,30746,243,Benzoic acid,26.01.2005 10:45:03,17.10.2013 16:06:25
+417,Phenolic acids,Hydroxybenzoic acids,Ellagic acid,Hydroxybenzoic acid dimers,302.193,Benzoaric acid ; Lagistase ; (Gallic acid dimer),C14H6O8,476-66-4,4775,5281855,Ellagic acid,26.08.2004 00:00:00,13.04.2015 21:57:10
+424,Phenolic acids,Hydroxybenzoic acids,Ellagic acid acetyl-arabinoside,Hydroxybenzoic acid dimers,476.344,Ellagic acid 4-(4''-acetyl)-a-D-arabinopyranoside ; 4-Acetyl-arabinosyl-ellagic acid,C21H16O13,,,,Ellagic acid,25.01.2005 10:32:20,13.04.2015 21:57:10
+423,Phenolic acids,Hydroxybenzoic acids,Ellagic acid acetyl-xyloside,Hydroxybenzoic acid dimers,476.344,Ellagic acid 4-(4''-acetyl)-a-D-xylopyranoside ; 4-Acetyl-xylosyl-ellagic acid,C21H16O13,,,,Ellagic acid,25.01.2005 10:32:20,13.04.2015 21:57:10
+422,Phenolic acids,Hydroxybenzoic acids,Ellagic acid arabinoside,Hydroxybenzoic acid dimers,434.307,Ellagic acid 4-a-L-arabinofuranoside ; 4-Arabinosyl-ellagic acid,C19H14O12,,,,Ellagic acid,25.01.2005 10:32:20,13.04.2015 21:57:10
+411,Phenolic acids,Hydroxybenzoic acids,Ellagic acid glucoside,Hydroxybenzoic acid dimers,464.333,,C20H16O13,,,,Ellagic acid,15.03.2005 15:05:35,17.10.2013 16:06:24
+413,Phenolic acids,Hydroxybenzoic acids,Gallic acid,Hydroxybenzoic acids,170.12,"3,4,5-Trihydroxybenzoic acid",C7H6O5,149-91-7,30778,370,Gallic acid,12.09.2002 14:10:47,13.04.2015 21:57:10
+438,Phenolic acids,Hydroxybenzoic acids,Gallic acid 3-O-gallate,Hydroxybenzoic acids,322.224,Digallic acid,C14H10O9,536-08-3,30814,341,Gallic acid,19.03.2007 00:00:00,17.10.2013 16:06:25
+435,Phenolic acids,Hydroxybenzoic acids,Gallic acid 4-O-glucoside,Hydroxybenzoic acids,332.26,,C13H16O10,,,,Gallic acid,04.02.2005 00:00:00,17.10.2013 16:06:25
+439,Phenolic acids,Hydroxybenzoic acids,Gallic acid ethyl ester,Hydroxybenzoic acids,198.173,Ethyl gallate,C9H10O5,,,,Gallic acid,07.09.2005 13:43:27,17.10.2013 16:06:25
+444,Phenolic acids,Hydroxybenzoic acids,Galloyl glucose,Hydroxybenzoic acids,332.26,,C13H16O10,,,,Gallic acid,04.02.2005 00:00:00,17.10.2013 16:06:26
+416,Phenolic acids,Hydroxybenzoic acids,Gentisic acid,Hydroxybenzoic acids,154.12,"2,5-Dihydroxybenzoic acid ; 5-Hydroxysalicylic acid",C7H6O4,490-79-9,17189,3469,Gentisic acid,30.08.2004 00:00:00,17.10.2013 16:06:24
+445,Phenolic acids,Hydroxybenzoic acids,Lambertianin C,Ellagitannins,2805.9,,C123H80O78,,,,Ellagic acid // Gallic acid,24.01.2005 00:00:00,13.04.2015 21:57:10
+412,Phenolic acids,Hydroxybenzoic acids,Protocatechuic acid,Hydroxybenzoic acids,154.12,"3,4-Dihydroxybenzoic acid",C7H6O4,99-50-3,36062,72,Protocatechuic acid,12.09.2002 14:09:47,13.04.2015 21:57:10
+434,Phenolic acids,Hydroxybenzoic acids,Protocatechuic acid 4-O-glucoside,Hydroxybenzoic acids,316.261,,C13H16O9,,,,Protocatechuic acid,04.02.2005 00:00:00,17.10.2013 16:06:25
+449,Phenolic acids,Hydroxybenzoic acids,Punicalagin,Ellagitannins,1084.72,"2,3-(S)-Hexahydroxydiphenoyl-4,6-(S,S)-gallagyl-D-glucose",C48H28O30,65995-63-3,,16129869,Ellagic acid // Gallagic acid,16.04.2008 00:00:00,17.10.2013 16:06:26
+446,Phenolic acids,Hydroxybenzoic acids,Sanguiin H-6,Ellagitannins,1871.28,,C82H54O52,82978-00-5,,16131123,Ellagic acid // Gallic acid,24.01.2005 00:00:00,13.04.2015 21:57:10
+420,Phenolic acids,Hydroxybenzoic acids,Syringic acid,Methoxybenzoic acids,198.173,"3,5-Dimethoxy-4-hydroxybenzoic acid",C9H10O5,530-57-4,,10742,Syringic acid,18.06.2004 00:00:00,13.04.2015 21:57:10
+440,Phenolic acids,Hydroxybenzoic acids,Valoneic acid dilactone,Hydroxybenzoic acid dimers,470.296,,C21H10O13,,,,Valoneic acid dilactone,05.10.2007 00:00:00,17.10.2013 16:06:25
+414,Phenolic acids,Hydroxybenzoic acids,Vanillic acid,Methoxybenzoic acids,168.147,4-Hydroxy-3-methoxybenzoic acid ; p-Vanillic acid,C8H8O4,121-34-6,30816,8468,Vanillic acid,06.05.2004 16:14:14,13.04.2015 21:57:10
+513,Phenolic acids,Hydroxycinnamic acids,"1,2'-Disinapoyl-2-feruloylgentiobiose",Methoxycinnamic acids,930.855,,C44H50O22,,,,Sinapic acid // Ferulic acid,12.07.2006 13:59:55,17.10.2013 16:06:28
+515,Phenolic acids,Hydroxycinnamic acids,"1,2,2'-Triferuloylgentiobiose",Methoxycinnamic acids,870.803,,C42H46O20,,,,Ferulic acid,12.07.2006 13:59:55,17.10.2013 16:06:28
+512,Phenolic acids,Hydroxycinnamic acids,"1,2,2'-Trisinapoylgentiobiose",Methoxycinnamic acids,960.881,,C45H52O23,,,,Sinapic acid,12.07.2006 13:59:55,17.10.2013 16:06:28
+511,Phenolic acids,Hydroxycinnamic acids,"1,2-Diferuloylgentiobiose",Methoxycinnamic acids,694.634,,C32H38O17,,,,Ferulic acid,12.07.2006 13:59:55,17.10.2013 16:06:28
+509,Phenolic acids,Hydroxycinnamic acids,"1,2-Disinapoylgentiobiose",Methoxycinnamic acids,754.686,,C34H42O19,,,,Sinapic acid,12.07.2006 13:59:55,17.10.2013 16:06:28
+514,Phenolic acids,Hydroxycinnamic acids,"1-Sinapoyl-2,2'-diferuloylgentiobiose",Methoxycinnamic acids,900.829,,C43H48O21,,,,Sinapic acid // Ferulic acid,12.07.2006 13:59:55,17.10.2013 16:06:28
+510,Phenolic acids,Hydroxycinnamic acids,1-Sinapoyl-2-feruloylgentiobiose,Methoxycinnamic acids,724.66,,C33H40O18,,,,Sinapic acid // Ferulic acid,12.07.2006 13:59:55,17.10.2013 16:06:28
+471,Phenolic acids,Hydroxycinnamic acids,"2,5-di-S-Glutathionyl caftaric acid",Hydroxycinnamic acids,922.844,,C33H42N6O21S2,,,,Caffeic acid,18.08.2005 12:22:45,17.10.2013 16:06:26
+477,Phenolic acids,Hydroxycinnamic acids,2-S-Glutathionyl caftaric acid,Hydroxycinnamic acids,617.537,,C23H27N3O15S,,,,Caffeic acid,06.09.2005 12:28:21,13.04.2015 21:57:10
+563,Phenolic acids,Hydroxycinnamic acids,24-Methylcholestanol ferulate,Methoxycinnamic acids,578.865,,C38H58O4,,,,Ferulic acid,26.02.2008 09:41:13,17.10.2013 16:06:30
+564,Phenolic acids,Hydroxycinnamic acids,24-Methylcholesterol ferulate,Methoxycinnamic acids,576.849,,C38H56O4,,,,Ferulic acid,26.02.2008 09:41:13,17.10.2013 16:06:30
+569,Phenolic acids,Hydroxycinnamic acids,24-Methylenecholestanol ferulate,Methoxycinnamic acids,576.849,,C38H56O4,,,,Ferulic acid,26.02.2008 09:41:13,17.10.2013 16:06:30
+565,Phenolic acids,Hydroxycinnamic acids,24-Methyllathosterol ferulate,Methoxycinnamic acids,576.849,,C38H56O4,,,,Ferulic acid,26.02.2008 09:41:13,17.10.2013 16:06:30
+520,Phenolic acids,Hydroxycinnamic acids,"3,4-Dicaffeoylquinic acid",Hydroxycinnamic acids,516.451,,C25H24O12,,,6711966,Caffeic acid,11.07.2006 00:00:00,17.10.2013 16:06:28
+522,Phenolic acids,Hydroxycinnamic acids,"3,4-Diferuloylquinic acid",Methoxycinnamic acids,544.504,,C27H28O12,,,,Ferulic acid,11.07.2006 00:00:00,17.10.2013 16:06:28
+484,Phenolic acids,Hydroxycinnamic acids,"3,5-Dicaffeoylquinic acid",Hydroxycinnamic acids,516.451,,C25H24O12,,,6474310,Caffeic acid,18.11.2004 00:00:00,13.04.2015 21:57:10
+523,Phenolic acids,Hydroxycinnamic acids,"3,5-Diferuloylquinic acid",Methoxycinnamic acids,544.504,,C27H28O12,,,,Ferulic acid,11.07.2006 00:00:00,17.10.2013 16:06:28
+467,Phenolic acids,Hydroxycinnamic acids,3-Caffeoylquinic acid,Hydroxycinnamic acids,354.309,Neochlorogenic acid,C16H18O9,327-97-9,16112,9476,Caffeic acid,20.09.2002 16:21:09,13.04.2015 21:57:10
+480,Phenolic acids,Hydroxycinnamic acids,3-Feruloylquinic acid,Methoxycinnamic acids,368.335,,C17H20O9,,,5317346,Ferulic acid,27.08.2004 00:00:00,17.10.2013 16:06:27
+476,Phenolic acids,Hydroxycinnamic acids,3-p-Coumaroylquinic acid,Hydroxycinnamic acids,338.309,,C16H18O8,,,,p-Coumaric acid,26.08.2004 00:00:00,13.04.2015 21:57:10
+483,Phenolic acids,Hydroxycinnamic acids,3-Sinapoylquinic acid,Methoxycinnamic acids,398.361,,C18H22O10,,,,Sinapic acid,27.08.2004 00:00:00,17.10.2013 16:06:27
+527,Phenolic acids,Hydroxycinnamic acids,"4,5-Dicaffeoylquinic acid",Hydroxycinnamic acids,516.451,,C25H24O12,,,,Caffeic acid,07.08.2006 00:00:00,13.04.2015 21:57:10
+469,Phenolic acids,Hydroxycinnamic acids,4-Caffeoylquinic acid,Hydroxycinnamic acids,354.309,Cryptochlorogenic acid,C16H18O9,,,5315600,Caffeic acid,26.08.2004 00:00:00,13.04.2015 21:57:10
+479,Phenolic acids,Hydroxycinnamic acids,4-Feruloylquinic acid,Methoxycinnamic acids,368.335,,C17H20O9,,,,Ferulic acid,27.08.2004 00:00:00,17.10.2013 16:06:27
+456,Phenolic acids,Hydroxycinnamic acids,4-p-Coumaroylquinic acid,Hydroxycinnamic acids,338.309,,C16H18O8,,,5281766,p-Coumaric acid,21.08.2002 15:05:48,17.10.2013 16:06:26
+482,Phenolic acids,Hydroxycinnamic acids,4-Sinapoylquinic acid,Methoxycinnamic acids,398.361,,C18H22O10,,,,Sinapic acid,27.08.2004 00:00:00,17.10.2013 16:06:27
+507,Phenolic acids,Hydroxycinnamic acids,5-5'-Dehydrodiferulic acid,Methoxycinnamic acid dimers,386.352,,C20H18O8,,,,5-5'-Dehydrodiferulic acid,25.04.2006 15:19:19,17.10.2013 16:06:28
+518,Phenolic acids,Hydroxycinnamic acids,5-8'-Benzofuran dehydrodiferulic acid,Methoxycinnamic acid dimers,386.352,,C20H18O8,,,,5-8'-Dehydrodiferulic acid,25.04.2006 15:35:05,13.04.2015 21:57:10
+508,Phenolic acids,Hydroxycinnamic acids,5-8'-Dehydrodiferulic acid,Methoxycinnamic acid dimers,386.352,,C20H18O8,,,,5-8'-Dehydrodiferulic acid,02.05.2006 13:43:15,13.04.2015 21:57:10
+475,Phenolic acids,Hydroxycinnamic acids,5-Caffeoylquinic acid,Hydroxycinnamic acids,354.309,Chlorogenic acid,C16H18O9,327-97-9,16112,12310830,Caffeic acid,26.08.2004 00:00:00,13.04.2015 21:57:10
+478,Phenolic acids,Hydroxycinnamic acids,5-Feruloylquinic acid,Methoxycinnamic acids,368.335,,C17H20O9,,,,Ferulic acid,27.08.2004 00:00:00,17.10.2013 16:06:27
+455,Phenolic acids,Hydroxycinnamic acids,5-p-Coumaroylquinic acid,Hydroxycinnamic acids,338.309,,C16H18O8,,,,p-Coumaric acid,28.08.2002 13:39:07,17.10.2013 16:06:26
+481,Phenolic acids,Hydroxycinnamic acids,5-Sinapoylquinic acid,Methoxycinnamic acids,398.361,,C18H22O10,,,,Sinapic acid,27.08.2004 00:00:00,17.10.2013 16:06:27
+516,Phenolic acids,Hydroxycinnamic acids,8-O-4'-Dehydrodiferulic acid,Methoxycinnamic acid dimers,386.352,,C20H18O8,,,,8-O-4'-Dehydrodiferulic acid,25.04.2006 15:28:42,17.10.2013 16:06:28
+533,Phenolic acids,Hydroxycinnamic acids,Avenanthramide 2c,Hydroxycinnamic acids,315.277,"N-[3',4'-Dihydroxy-(E)-cinnamoyl]-5-hydroxyanthranilic acid ; Avenanthramide C (Collins)",C16H13NO6,,,,Avenanthramide 2c,16.08.2006 00:00:00,17.10.2013 16:06:29
+534,Phenolic acids,Hydroxycinnamic acids,Avenanthramide 2f,Methoxycinnamic acids,329.304,N-[4'-Hydroxy-3'-methoxy-(E)-cinnamoyl]-5-hydroxyanthranilic acid ; Avenanthramide B (Collins) ; Avenanthramide A1,C17H15NO6,,,,Avenanthramide 2f,16.08.2006 00:00:00,17.10.2013 16:06:29
+532,Phenolic acids,Hydroxycinnamic acids,Avenanthramide 2p,Hydroxycinnamic acids,299.278,N-[4'-Hydroxy-(E)cinnamoyl]-5-hydroxyanthranilic acid ; Avenanthramide A (Collins) ; Avenanthramide A4 (Dimberg),C16H13NO5,,,5281157,Avenanthramide 2p,16.08.2006 00:00:00,17.10.2013 16:06:29
+559,Phenolic acids,Hydroxycinnamic acids,Avenanthramide K,Hydroxycinnamic acids,315.277,"N-[3',4'-Dihydroxy-(E)-cinnamoyl]-4-hydroxyanthranilic acid ; AVK (Collins)",C16H13NO6,,,,Avenanthramide K,14.02.2008 00:00:00,17.10.2013 16:06:30
+457,Phenolic acids,Hydroxycinnamic acids,Caffeic acid,Hydroxycinnamic acids,180.157,"3,4-Dihydroxycinnamic acid",C9H8O4,331-39-5,17395,689043,Caffeic acid,21.08.2002 08:54:05,13.04.2015 21:57:10
+488,Phenolic acids,Hydroxycinnamic acids,Caffeic acid 4-O-glucoside,Hydroxycinnamic acids,342.298,,C15H18O9,,,,Caffeic acid,04.02.2005 00:00:00,17.10.2013 16:06:27
+473,Phenolic acids,Hydroxycinnamic acids,Caffeic acid ethyl ester,Hydroxycinnamic acids,208.211,"Ethyl 3,4-dihydroxycinnamate ; Ethyl caffeate",C11H12O4,102-37-4,,5317238,Caffeic acid,06.09.2005 12:19:55,17.10.2013 16:06:26
+551,Phenolic acids,Hydroxycinnamic acids,Caffeoyl aspartic acid,Hydroxycinnamic acids,295.245,"N-[3',4'-Dihydroxy-(E)-cinnamoyl]-L-aspartic acid",C13H13NO7,,,,Caffeoyl aspartic acid,20.09.2002 16:21:09,17.10.2013 16:06:29
+486,Phenolic acids,Hydroxycinnamic acids,Caffeoyl glucose,Hydroxycinnamic acids,342.298,,C15H18O9,,,,Caffeic acid,28.01.2005 11:09:04,17.10.2013 16:06:27
+460,Phenolic acids,Hydroxycinnamic acids,Caffeoyl tartaric acid,Hydroxycinnamic acids,312.229,Caftaric acid,C13H12O9,,,,Caffeic acid,18.08.2005 12:01:08,17.10.2013 16:06:26
+506,Phenolic acids,Hydroxycinnamic acids,Chicoric acid,Hydroxycinnamic acids,474.371,Dicaffeoyl tartaric acid,C22H18O12,70831-56-0,,5281764,Caffeic acid,08.08.2006 09:52:43,17.10.2013 16:06:28
+549,Phenolic acids,Hydroxycinnamic acids,Cinnamic acid,Hydroxycinnamic acids,148.159,,C9H8O2,621-82-9,27386,444539,Cinnamic acid,31.10.2008 00:00:00,13.04.2015 21:57:10
+474,Phenolic acids,Hydroxycinnamic acids,Cinnamoyl glucose,Hydroxycinnamic acids,310.299,,C15H18O7,,,11972309,Cinnamic acid,29.04.2004 00:00:00,17.10.2013 16:06:26
+459,Phenolic acids,Hydroxycinnamic acids,Ferulic acid,Methoxycinnamic acids,194.184,3-Methoxy-4-Hydroxycinnamic acid ; 3-Methylcaffeic acid ; Coniferic acid,C10H10O4,1135-24-6,17620,709,Ferulic acid,23.09.2002 09:04:36,13.04.2015 21:57:10
+489,Phenolic acids,Hydroxycinnamic acids,Ferulic acid 4-O-glucoside,Methoxycinnamic acids,356.325,,C16H20O9,,,,Ferulic acid,04.02.2005 00:00:00,17.10.2013 16:06:27
+458,Phenolic acids,Hydroxycinnamic acids,Feruloyl glucose,Methoxycinnamic acids,356.325,,C16H20O9,,,25245871,Ferulic acid,21.08.2002 15:11:17,17.10.2013 16:06:26
+472,Phenolic acids,Hydroxycinnamic acids,Feruloyl tartaric acid,Methoxycinnamic acids,326.256,Fertaric acid,C14H14O9,,,641605,Ferulic acid,06.09.2005 12:01:18,13.04.2015 21:57:10
+503,Phenolic acids,Hydroxycinnamic acids,Hydroxycaffeic acid,Hydroxycinnamic acids,196.157,,C9H8O5,,,,Hydroxycaffeic acid,24.10.2005 12:01:24,17.10.2013 16:06:27
+485,Phenolic acids,Hydroxycinnamic acids,Isoferulic acid,Methoxycinnamic acids,194.184,4-Methoxy-3-Hydroxycinnamic acid ; 4-Methylcaffeic acid,C10H10O4,537-73-5,,736186,Isoferulic acid,19.11.2004 13:38:28,17.10.2013 16:06:27
+463,Phenolic acids,Hydroxycinnamic acids,m-Coumaric acid,Hydroxycinnamic acids,164.158,m-Hydroxycinnamic acid,C9H8O3,588-30-7,18176,637541,m-Coumaric acid,26.08.2004 00:00:00,17.10.2013 16:06:26
+462,Phenolic acids,Hydroxycinnamic acids,o-Coumaric acid,Hydroxycinnamic acids,164.158,o-Hydroxycinnamic acid,C9H8O3,,18125,11968,o-Coumaric acid,10.08.2004 00:00:00,13.04.2015 21:57:10
+454,Phenolic acids,Hydroxycinnamic acids,p-Coumaric acid,Hydroxycinnamic acids,164.158,p-Hydroxycinnamic acid,C9H8O3,7400-08-0,36090,322,p-Coumaric acid,25.09.2002 13:36:42,13.04.2015 21:57:10
+487,Phenolic acids,Hydroxycinnamic acids,p-Coumaric acid 4-O-glucoside,Hydroxycinnamic acids,326.299,,C15H18O8,,,9840292,p-Coumaric acid,28.01.2005 11:13:35,17.10.2013 16:06:27
+491,Phenolic acids,Hydroxycinnamic acids,p-Coumaric acid ethyl ester,Hydroxycinnamic acids,192.211,,C11H12O3,,,,p-Coumaric acid,07.09.2005 13:41:36,17.10.2013 16:06:27
+465,Phenolic acids,Hydroxycinnamic acids,p-Coumaroyl glucose,Hydroxycinnamic acids,326.299,,C15H18O8,,,,p-Coumaric acid,20.09.2002 16:21:31,13.04.2015 21:57:10
+540,Phenolic acids,Hydroxycinnamic acids,p-Coumaroyl glycolic acid,Hydroxycinnamic acids,222.194,,C11H10O5,,,,p-Coumaric acid,28.03.2007 00:00:00,17.10.2013 16:06:29
+539,Phenolic acids,Hydroxycinnamic acids,p-Coumaroyl malic acid,Hydroxycinnamic acids,280.23,,C13H12O7,,,,p-Coumaric acid,28.03.2007 00:00:00,17.10.2013 16:06:29
+470,Phenolic acids,Hydroxycinnamic acids,p-Coumaroyl tartaric acid,Hydroxycinnamic acids,296.23,,C13H12O8,,,,p-Coumaric acid,18.08.2005 12:06:21,13.04.2015 21:57:10
+490,Phenolic acids,Hydroxycinnamic acids,p-Coumaroyl tartaric acid glucosidic ester,Hydroxycinnamic acids,474,,,,,,p-Coumaric acid,07.09.2005 13:31:39,15.10.2011 02:49:55
+553,Phenolic acids,Hydroxycinnamic acids,p-Coumaroyl tyrosine,Hydroxycinnamic acids,327.331,N-[4'-Hydroxy-(E)-cinnamoyl]-L-tyrosine ; Deoxyclovamide,C18H17NO5,,,,p-Coumaroyl tyrosine,20.09.2002 16:21:09,17.10.2013 16:06:29
+466,Phenolic acids,Hydroxycinnamic acids,p-Coumaroylquinic acid,Hydroxycinnamic acids,338.309,,C16H18O8,,,5281766,p-Coumaric acid,20.09.2002 14:53:52,13.04.2015 21:57:10
+461,Phenolic acids,Hydroxycinnamic acids,Rosmarinic acid,Hydroxycinnamic acids,360.315,,C18H16O8,537-15-5,17226,5281792,Caffeic acid,25.03.2003 14:47:33,17.10.2013 16:06:26
+568,Phenolic acids,Hydroxycinnamic acids,Schottenol ferulate,Methoxycinnamic acids,590.875,,C39H58O4,,,,Ferulic acid,26.02.2008 09:41:13,17.10.2013 16:06:30
+464,Phenolic acids,Hydroxycinnamic acids,Sinapic acid,Methoxycinnamic acids,224.21,"3,5-Dimethoxy-4-hydroxycinnamic acid ; Sinapate ; Synapoic acid ; Sinapinic acid",C11H12O5,530-59-6,15714,10743,Sinapic acid,19.09.2002 09:46:19,13.04.2015 21:57:10
+557,Phenolic acids,Hydroxycinnamic acids,Sinapine,Methoxycinnamic acids,310.366,"4-Hydroxy-3,5-dimethoxycinnamate choline",C16H24NO5,18696-26-9,16353,89287,Sinapic acid,04.12.2007 00:00:00,17.10.2013 16:06:29
+567,Phenolic acids,Hydroxycinnamic acids,Sitosterol ferulate,Methoxycinnamic acids,590.875,,C39H58O4,,,,Ferulic acid,26.02.2008 09:41:13,17.10.2013 16:06:30
+566,Phenolic acids,Hydroxycinnamic acids,Stigmastanol ferulate,Methoxycinnamic acids,592.891,,C39H60O4,,,,Ferulic acid,26.02.2008 09:41:13,17.10.2013 16:06:30
+468,Phenolic acids,Hydroxycinnamic acids,Verbascoside,Hydroxycinnamic acids,624.587,"2-(3,4-Dihydroxyphenylethyl) 1-O-a-l-rhamnopyranosyl-(1-3)-b-d-(4-O-caffeyl) glucopyranoside ; Caffeoyl-rhamnosyl-glucoside of hydroxytyrosol ; Acteoside ; Acteoside 1 ; Kusaginin",C29H36O15,61276-17-3,,5281800,Caffeic acid,05.05.2003 11:53:32,17.10.2013 16:06:26
+572,Phenolic acids,Hydroxyphenylacetic acids,"3,4-Dihydroxyphenylacetic acid",Hydroxyphenylacetic acids,168.147,DOPAC ; Homoprotocatechuic acid ; Homogentisic acid ; Dopacetic acid,C8H8O4,102-32-9,41941,547,"3,4-Dihydroxyphenylacetic acid",26.01.2005 13:32:01,17.10.2013 16:06:30
+573,Phenolic acids,Hydroxyphenylacetic acids,4-Hydroxyphenylacetic acid,Hydroxyphenylacetic acids,152.147,,C8H8O3,156-38-7,18101,127,4-Hydroxyphenylacetic acid,26.01.2005 13:32:01,17.10.2013 16:06:30
+574,Phenolic acids,Hydroxyphenylacetic acids,Homovanillic acid,Methoxyphenylacetic acids,182.173,3-Methoxy-4-hydroxyphenylacetic acid ; 3-Methoxy-4-hydroxyphenylacetate ; 4-Hydroxy-3-methoxybenzeneacetic acid,C9H10O4,306-08-1,,1738,Homovanillic acid,26.01.2005 13:32:01,17.10.2013 16:06:30
+575,Phenolic acids,Hydroxyphenylacetic acids,Homoveratric acid,Methoxyphenylacetic acids,196.2,"3,4-Dimethoxyphenylacetic acid ; 3,4-Dimethoxybenzeneacetic acid",C10H12O4,,,7139,Homoveratric acid,26.01.2005 13:32:01,17.10.2013 16:06:30
+576,Phenolic acids,Hydroxyphenylacetic acids,Methoxyphenylacetic acid,Methoxyphenylacetic acids,166.174,,C9H10O3,93-25-4,,107202,Methoxyphenylacetic acid,30.10.2007 00:00:00,17.10.2013 16:06:30
+578,Phenolic acids,Hydroxyphenylpropanoic acids,Dihydro-p-coumaric acid,Hydroxyphenylpropanoic acids,166.174,4-Hydroxy-phenyl-propanoic acid ; p-Hydroxyphenylpropanoate ; 4-Hydroxyphenylpropionic acid ; Phloretic acid,C9H10O3,501-97-3,32980,10394,Dihydro-p-coumaric acid,17.10.2007 00:00:00,17.10.2013 16:06:31
+579,Phenolic acids,Hydroxyphenylpropanoic acids,Dihydrocaffeic acid,Hydroxyphenylpropanoic acids,182.173,"3-(3,4-Dihydroxyphenyl)-propanoic acid ; 3,4-Dihydroxyhydrocinnamic acid ; 2,3-Dihydrocaffeic acid",C9H10O4,1078-61-1,48400,348154,Dihydrocaffeic acid,05.05.2003 11:53:32,17.10.2013 16:06:31
+586,Stilbenes,Stilbenes,d-Viniferin,Stilbene dimers,454.471,,C28H22O6,,,,d-Viniferin,16.08.2005 13:39:40,17.10.2013 16:06:31
+584,Stilbenes,Stilbenes,e-Viniferin,Stilbene dimers,454.471,,C28H22O6,62218-08-0,,5281728,d-Viniferin,16.08.2005 13:39:40,17.10.2013 16:06:31
+588,Stilbenes,Stilbenes,Pallidol,Stilbene dimers,454.471,,C28H22O6,,,484757,Pallidol,05.09.2005 10:55:42,17.10.2013 16:06:31
+582,Stilbenes,Stilbenes,Piceatannol,Stilbenes,244.243,"3,4,3',5'-Tetrahydroxystilbene ; Astringinin",C14H12O4,4339-71-3,28814,4813,Piceatannol,08.02.2006 00:00:00,17.10.2013 16:06:31
+589,Stilbenes,Stilbenes,Piceatannol 3-O-glucoside,Stilbenes,406.383,Astringinin 3-O-glucoside ; Astringin,C20H22O9,,,,Piceatannol,08.09.2005 15:59:27,17.10.2013 16:06:31
+590,Stilbenes,Stilbenes,Pinosylvin,Stilbenes,212.244,"3,5-Dihydroxystilbene",C14H12O2,102-61-4,36011,100754,Pinosylvin,28.09.2006 00:00:00,17.10.2013 16:06:31
+585,Stilbenes,Stilbenes,Pterostilbene,Stilbenes,256.296,"3,5-Dimethyl-resveratrol",C16H16O3,537-42-8,,5281727,Pterostilbene,16.08.2005 13:39:40,17.10.2013 16:06:31
+592,Stilbenes,Stilbenes,Resveratrol,Stilbenes,228.243,"3,5,4'-Trihydroxystilbene",C14H12O3,501-36-0,27881,445154,Resveratrol,15.03.2005 10:04:40,17.10.2013 16:06:31
+593,Stilbenes,Stilbenes,Resveratrol 3-O-glucoside,Stilbenes,390.384,Piceid ; Polydatin,C20H22O8,65914-17-2,,5281718,Resveratrol,15.03.2005 10:04:40,17.10.2013 16:06:31
+591,Stilbenes,Stilbenes,Resveratrol 5-O-glucoside,Stilbenes,390.384,,C20H22O8,,,,Resveratrol,17.04.2007 00:00:00,17.10.2013 16:06:31
