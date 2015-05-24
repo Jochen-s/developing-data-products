@@ -1,0 +1,14 @@
+BACKGROUND:
+This is an assignment for the 'Developing Data products course on Coursera.
+
+CREDIT:
+All data content is available thanks to http://phenol-explorer.eu/. 
+
+ASSIGNMENT INFORMATION:
+More information can be found on the slidify explanations which can be found here: http://jochen-s.github.io/testDeck/index.html
+
+APPLICATION:
+This application allows you to slice and dice the data based on molecular weight, amount of substances, the polyphenol count and the subclass.
+
+NAVIGATION:
+use the sliders and selection boxes to change the filtering, which is the reflected on the datatable and the graphics
